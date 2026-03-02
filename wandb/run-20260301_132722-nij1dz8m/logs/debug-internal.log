@@ -1,0 +1,16 @@
+{"time":"2026-03-01T13:27:22.192671501+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"/mnt/afs/smartbrain/fangwenhan/wzz/gzh/LatentReasoning_with_SAE/lvr/wandb/run-20260301_132722-nij1dz8m/logs/debug-core.log"}
+{"time":"2026-03-01T13:27:23.703739503+08:00","level":"INFO","msg":"created new stream","id":"nij1dz8m"}
+{"time":"2026-03-01T13:27:23.703833501+08:00","level":"INFO","msg":"stream: started","id":"nij1dz8m"}
+{"time":"2026-03-01T13:27:23.704766704+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"nij1dz8m"}
+{"time":"2026-03-01T13:27:23.705176226+08:00","level":"INFO","msg":"handler: started","stream_id":"nij1dz8m"}
+{"time":"2026-03-01T13:27:23.705419891+08:00","level":"INFO","msg":"sender: started","stream_id":"nij1dz8m"}
+{"time":"2026-03-01T13:27:24.642691447+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-03-01T14:02:06.11271421+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/roxyreallynice-central-south-university/LVR-Qwen25-VL-7B-SFT-STAGE-1-450k/nij1dz8m/file_stream\": read tcp 172.21.0.7:46722->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2026-03-01T15:09:51.697276234+08:00","level":"INFO","msg":"stream: closing","id":"nij1dz8m"}
+{"time":"2026-03-01T15:09:51.705826567+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-03-01T15:09:51.705996644+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-03-01T15:09:54.144903163+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-01T15:09:55.097073999+08:00","level":"INFO","msg":"handler: closed","stream_id":"nij1dz8m"}
+{"time":"2026-03-01T15:09:55.097136778+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"nij1dz8m"}
+{"time":"2026-03-01T15:09:55.097147498+08:00","level":"INFO","msg":"sender: closed","stream_id":"nij1dz8m"}
+{"time":"2026-03-01T15:09:55.097747327+08:00","level":"INFO","msg":"stream: closed","id":"nij1dz8m"}

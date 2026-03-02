@@ -1,0 +1,1345 @@
+  0%|                                                                                                | 0/900 [13:40<?, ?it/s]/mnt/afs/finn/miniconda3/envs/lvr/lib/python3.11/site-packages/torch/utils/checkpoint.py:87: UserWarning: None of the inputs have requires_grad=True. Gradients will be None
+{'batch_size': 1, 'tokens_per_device': 4862, 'epoch': 1.0}
+  warnings.warn(
+`use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`...
+                                                                                                                             
+{'loss_total': 0.13148164749145508, 'loss_ce': 0.034689903259277344, 'loss_lvr': 0.9679173231124878, 'loss_mode_switch': 0.0, 'epoch': 1.0}
+{'batch_size': 1, 'tokens_per_device': 5129, 'epoch': 1.0}
+{'loss_total': 0.164134681224823, 'loss_ce': 0.04353485256433487, 'loss_lvr': 1.205998182296753, 'loss_mode_switch': 0.0, 'epoch': 1.0}
+{'batch_size': 2, 'tokens_per_device': 2420, 'epoch': 1.0}
+{'loss_total': 0.7367749810218811, 'loss_ce': 0.5814290046691895, 'loss_lvr': 1.553459644317627, 'loss_mode_switch': 0.0, 'epoch': 1.0}
+{'batch_size': 2, 'tokens_per_device': 2420, 'epoch': 1.0}
+{'loss_total': 0.4601163864135742, 'loss_ce': 0.28256452083587646, 'loss_lvr': 1.775518536567688, 'loss_mode_switch': 0.0, 'epoch': 1.0}
+{'batch_size': 2, 'tokens_per_device': 688, 'epoch': 1.0}
+{'loss_total': 0.7336065769195557, 'loss_ce': 0.5928711295127869, 'loss_lvr': 1.4073543548583984, 'loss_mode_switch': 0.0, 'epoch': 1.0}
+{'batch_size': 2, 'tokens_per_device': 1130, 'epoch': 1.0}
+{'loss_total': 0.6777565479278564, 'loss_ce': 0.5323516726493835, 'loss_lvr': 1.4540483951568604, 'loss_mode_switch': 0.0, 'epoch': 1.0}
+{'batch_size': 2, 'tokens_per_device': 674, 'epoch': 1.0}
+{'loss_total': 0.5859249830245972, 'loss_ce': 0.46509039402008057, 'loss_lvr': 1.208345651626587, 'loss_mode_switch': 0.0, 'epoch': 1.0}
+{'batch_size': 2, 'tokens_per_device': 1884, 'epoch': 1.0}
+{'loss_total': 0.23473146557807922, 'loss_ce': 0.08483106642961502, 'loss_lvr': 1.4990040063858032, 'loss_mode_switch': 0.0, 'epoch': 1.0}
+{'batch_size': 2, 'tokens_per_device': 672, 'epoch': 1.0}
+{'loss_total': 0.9174976944923401, 'loss_ce': 0.7646495699882507, 'loss_lvr': 1.5284812450408936, 'loss_mode_switch': 0.0, 'epoch': 1.0}
+{'batch_size': 2, 'tokens_per_device': 2006, 'epoch': 1.0}
+{'loss_total': 0.4374774992465973, 'loss_ce': 0.3073219954967499, 'loss_lvr': 1.3015550374984741, 'loss_mode_switch': 0.0, 'epoch': 1.0}
+{'batch_size': 2, 'tokens_per_device': 966, 'epoch': 1.0}
+{'loss_total': 0.6138908863067627, 'loss_ce': 0.5008959770202637, 'loss_lvr': 1.1299493312835693, 'loss_mode_switch': 0.0, 'epoch': 1.0}
+{'batch_size': 2, 'tokens_per_device': 650, 'epoch': 1.0}
+{'loss_total': 0.49613237380981445, 'loss_ce': 0.36877375841140747, 'loss_lvr': 1.2735861539840698, 'loss_mode_switch': 0.0, 'epoch': 1.0}
+{'batch_size': 2, 'tokens_per_device': 7356, 'epoch': 1.0}
+{'loss_total': 0.8564474582672119, 'loss_ce': 0.621342122554779, 'loss_lvr': 2.351053237915039, 'loss_mode_switch': 0.0, 'epoch': 1.0}
+{'batch_size': 1, 'tokens_per_device': 5099, 'epoch': 1.0}
+{'loss_total': 0.1793428659439087, 'loss_ce': 0.12681986391544342, 'loss_lvr': 0.5252299904823303, 'loss_mode_switch': 0.0, 'epoch': 1.0}
+{'batch_size': 2, 'tokens_per_device': 4862, 'epoch': 1.0}
+{'loss_total': 0.29214173555374146, 'loss_ce': 0.15243928134441376, 'loss_lvr': 1.3970245122909546, 'loss_mode_switch': 0.0, 'epoch': 1.0}
+{'batch_size': 2, 'tokens_per_device': 1904, 'epoch': 1.0}
+{'loss_total': 0.344548761844635, 'loss_ce': 0.16959071159362793, 'loss_lvr': 1.7495803833007812, 'loss_mode_switch': 0.0, 'epoch': 1.0}
+{'loss': 0.4084, 'grad_norm': 3.120859146118164, 'learning_rate': 3.1396647496828245e-07, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 2184, 'epoch': 0.89}
+{'loss_total': 0.19182685017585754, 'loss_ce': 0.07459424436092377, 'loss_lvr': 1.1723259687423706, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 1954, 'epoch': 0.89}
+{'loss_total': 0.2941630482673645, 'loss_ce': 0.10877544432878494, 'loss_lvr': 1.8538758754730225, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 1, 'tokens_per_device': 5143, 'epoch': 0.89}
+{'loss_total': 1.2060942649841309, 'loss_ce': 1.0385377407073975, 'loss_lvr': 1.6755646467208862, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 1, 'tokens_per_device': 4897, 'epoch': 0.89}
+{'loss_total': 0.1547931432723999, 'loss_ce': 0.12154089659452438, 'loss_lvr': 0.3325224816799164, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 3418, 'epoch': 0.89}
+{'loss_total': 0.17069455981254578, 'loss_ce': 0.016864614561200142, 'loss_lvr': 1.5382994413375854, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 1934, 'epoch': 0.89}
+{'loss_total': 0.7413173913955688, 'loss_ce': 0.6022161245346069, 'loss_lvr': 1.39101243019104, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 554, 'epoch': 0.89}
+{'loss_total': 0.33002084493637085, 'loss_ce': 0.18015392124652863, 'loss_lvr': 1.4986690282821655, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 2060, 'epoch': 0.89}
+{'loss_total': 0.7876365780830383, 'loss_ce': 0.6655559539794922, 'loss_lvr': 1.220806360244751, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 1890, 'epoch': 0.89}
+{'loss_total': 0.6380383372306824, 'loss_ce': 0.5111028552055359, 'loss_lvr': 1.2693545818328857, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 1, 'tokens_per_device': 5119, 'epoch': 0.89}
+{'loss_total': 0.0718589499592781, 'loss_ce': 0.018041154369711876, 'loss_lvr': 0.5381779670715332, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 1, 'tokens_per_device': 5129, 'epoch': 0.89}
+{'loss_total': 0.11480854451656342, 'loss_ce': 0.07959327101707458, 'loss_lvr': 0.3521527647972107, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 2070, 'epoch': 0.89}
+{'loss_total': 0.1544637680053711, 'loss_ce': 0.028716223314404488, 'loss_lvr': 1.25747549533844, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 692, 'epoch': 0.89}
+{'loss_total': 0.7688119411468506, 'loss_ce': 0.6256722211837769, 'loss_lvr': 1.4313973188400269, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 2586, 'epoch': 0.89}
+{'loss_total': 0.23449456691741943, 'loss_ce': 0.1290082186460495, 'loss_lvr': 1.0548635721206665, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 3240, 'epoch': 0.89}
+{'loss_total': 0.15530887246131897, 'loss_ce': 0.021739842370152473, 'loss_lvr': 1.3356902599334717, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 642, 'epoch': 0.89}
+{'loss_total': 0.3550543785095215, 'loss_ce': 0.22059133648872375, 'loss_lvr': 1.344630241394043, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'loss': 0.3931, 'grad_norm': 2.8386802673339844, 'learning_rate': 3.077213029433879e-07, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 2164, 'epoch': 0.89}
+{'loss_total': 0.1587805151939392, 'loss_ce': 0.035677723586559296, 'loss_lvr': 1.2310278415679932, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 2894, 'epoch': 0.89}
+{'loss_total': 0.9322007298469543, 'loss_ce': 0.7623258233070374, 'loss_lvr': 1.69874906539917, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 662, 'epoch': 0.89}
+{'loss_total': 0.6410959959030151, 'loss_ce': 0.518076479434967, 'loss_lvr': 1.2301949262619019, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 3488, 'epoch': 0.89}
+{'loss_total': 0.12984362244606018, 'loss_ce': 0.027240879833698273, 'loss_lvr': 1.0260273218154907, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 658, 'epoch': 0.89}
+{'loss_total': 0.502139151096344, 'loss_ce': 0.3722122013568878, 'loss_lvr': 1.299269437789917, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 678, 'epoch': 0.89}
+{'loss_total': 0.3970179557800293, 'loss_ce': 0.26610803604125977, 'loss_lvr': 1.3090989589691162, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 904, 'epoch': 0.89}
+{'loss_total': 0.348915159702301, 'loss_ce': 0.20445306599140167, 'loss_lvr': 1.4446207284927368, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 540, 'epoch': 0.89}
+{'loss_total': 0.7912565469741821, 'loss_ce': 0.5359801054000854, 'loss_lvr': 2.552764654159546, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 1, 'tokens_per_device': 5119, 'epoch': 0.89}
+{'loss_total': 0.2564574182033539, 'loss_ce': 0.09882871806621552, 'loss_lvr': 1.5762869119644165, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 1808, 'epoch': 0.89}
+{'loss_total': 0.3007073998451233, 'loss_ce': 0.19627584517002106, 'loss_lvr': 1.0443155765533447, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 2226, 'epoch': 0.89}
+{'loss_total': 0.17568975687026978, 'loss_ce': 0.033608317375183105, 'loss_lvr': 1.4208143949508667, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 854, 'epoch': 0.89}
+{'loss_total': 0.31003159284591675, 'loss_ce': 0.1286887228488922, 'loss_lvr': 1.8134287595748901, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 2142, 'epoch': 0.89}
+{'loss_total': 0.14292936027050018, 'loss_ce': 0.031851399689912796, 'loss_lvr': 1.1107795238494873, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 1132, 'epoch': 0.89}
+{'loss_total': 0.5961703062057495, 'loss_ce': 0.4391423165798187, 'loss_lvr': 1.5702797174453735, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 752, 'epoch': 0.89}
+{'loss_total': 0.23620857298374176, 'loss_ce': 0.03127727285027504, 'loss_lvr': 2.0493130683898926, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 1, 'tokens_per_device': 6530, 'epoch': 0.89}
+{'loss_total': 0.09016527235507965, 'loss_ce': 0.0057408674620091915, 'loss_lvr': 0.8442440629005432, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'loss': 0.3905, 'grad_norm': 2.943315029144287, 'learning_rate': 3.015368960704584e-07, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 1358, 'epoch': 0.89}
+{'loss_total': 0.4540385603904724, 'loss_ce': 0.2830069363117218, 'loss_lvr': 1.7103164196014404, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 2026, 'epoch': 0.89}
+{'loss_total': 0.14233942329883575, 'loss_ce': 0.014866982586681843, 'loss_lvr': 1.2747243642807007, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 1, 'tokens_per_device': 5277, 'epoch': 0.89}
+{'loss_total': 0.8401514291763306, 'loss_ce': 0.7260074019432068, 'loss_lvr': 1.1414400339126587, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 1888, 'epoch': 0.89}
+{'loss_total': 0.31732773780822754, 'loss_ce': 0.05979825556278229, 'loss_lvr': 2.5752944946289062, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 2058, 'epoch': 0.89}
+{'loss_total': 0.19925037026405334, 'loss_ce': 0.05596323311328888, 'loss_lvr': 1.4328713417053223, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 680, 'epoch': 0.89}
+{'loss_total': 0.4317014515399933, 'loss_ce': 0.3107511103153229, 'loss_lvr': 1.209503412246704, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 1334, 'epoch': 0.89}
+{'loss_total': 0.34413132071495056, 'loss_ce': 0.09534913301467896, 'loss_lvr': 2.4878218173980713, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 628, 'epoch': 0.89}
+{'loss_total': 0.7185211777687073, 'loss_ce': 0.5841382145881653, 'loss_lvr': 1.34382963180542, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 1, 'tokens_per_device': 4872, 'epoch': 0.89}
+{'loss_total': 0.11711728572845459, 'loss_ce': 0.00797838531434536, 'loss_lvr': 1.0913889408111572, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 1, 'tokens_per_device': 4792, 'epoch': 0.89}
+{'loss_total': 0.24883437156677246, 'loss_ce': 0.09715257585048676, 'loss_lvr': 1.5168179273605347, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 2684, 'epoch': 0.89}
+{'loss_total': 0.4192425012588501, 'loss_ce': 0.31378597021102905, 'loss_lvr': 1.054565191268921, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 1, 'tokens_per_device': 6659, 'epoch': 0.89}
+{'loss_total': 0.1250171661376953, 'loss_ce': 0.04350851848721504, 'loss_lvr': 0.8150864839553833, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 710, 'epoch': 0.89}
+{'loss_total': 0.2851082384586334, 'loss_ce': 0.17611810564994812, 'loss_lvr': 1.089901328086853, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 960, 'epoch': 0.89}
+{'loss_total': 0.2043759822845459, 'loss_ce': 0.07089896500110626, 'loss_lvr': 1.3347702026367188, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 628, 'epoch': 0.89}
+{'loss_total': 0.40503573417663574, 'loss_ce': 0.23790118098258972, 'loss_lvr': 1.6713454723358154, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 748, 'epoch': 0.89}
+{'loss_total': 0.43305718898773193, 'loss_ce': 0.30114349722862244, 'loss_lvr': 1.3191367387771606, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'loss': 0.4111, 'grad_norm': 3.5274252891540527, 'learning_rate': 2.9541333443775244e-07, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 632, 'epoch': 0.89}
+{'loss_total': 0.21188199520111084, 'loss_ce': 0.10518887639045715, 'loss_lvr': 1.0669312477111816, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 1, 'tokens_per_device': 4637, 'epoch': 0.89}
+{'loss_total': 0.31196480989456177, 'loss_ce': 0.10734216123819351, 'loss_lvr': 2.0462265014648438, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 702, 'epoch': 0.89}
+{'loss_total': 0.2161656618118286, 'loss_ce': 0.08356593549251556, 'loss_lvr': 1.325997233390808, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 694, 'epoch': 0.89}
+{'loss_total': 0.4231390357017517, 'loss_ce': 0.27269962430000305, 'loss_lvr': 1.504394292831421, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 784, 'epoch': 0.89}
+{'loss_total': 0.24835219979286194, 'loss_ce': 0.13369876146316528, 'loss_lvr': 1.1465344429016113, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 1, 'tokens_per_device': 5198, 'epoch': 0.89}
+{'loss_total': 0.08118800073862076, 'loss_ce': 0.018272481858730316, 'loss_lvr': 0.629155158996582, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 1, 'tokens_per_device': 5150, 'epoch': 0.89}
+{'loss_total': 0.2771643400192261, 'loss_ce': 0.02962779998779297, 'loss_lvr': 2.475365161895752, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 2126, 'epoch': 0.89}
+{'loss_total': 0.17367394268512726, 'loss_ce': 0.007517936639487743, 'loss_lvr': 1.66156005859375, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 716, 'epoch': 0.89}
+{'loss_total': 0.6105390191078186, 'loss_ce': 0.4854627549648285, 'loss_lvr': 1.250762701034546, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 3910, 'epoch': 0.89}
+{'loss_total': 0.121403768658638, 'loss_ce': 0.018823543563485146, 'loss_lvr': 1.0258022546768188, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 1828, 'epoch': 0.89}
+{'loss_total': 0.18370190262794495, 'loss_ce': 0.08470480144023895, 'loss_lvr': 0.9899709224700928, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 1, 'tokens_per_device': 5104, 'epoch': 0.89}
+{'loss_total': 0.744851291179657, 'loss_ce': 0.5943993926048279, 'loss_lvr': 1.5045188665390015, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 3168, 'epoch': 0.89}
+{'loss_total': 0.25569719076156616, 'loss_ce': 0.1733190417289734, 'loss_lvr': 0.8237816095352173, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 2094, 'epoch': 0.89}
+{'loss_total': 0.41342127323150635, 'loss_ce': 0.2505008280277252, 'loss_lvr': 1.629204511642456, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 700, 'epoch': 0.89}
+{'loss_total': 0.7946783304214478, 'loss_ce': 0.6783385872840881, 'loss_lvr': 1.1633976697921753, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 658, 'epoch': 0.89}
+{'loss_total': 0.2176150679588318, 'loss_ce': 0.09346691519021988, 'loss_lvr': 1.2414814233779907, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'loss': 0.4108, 'grad_norm': 3.0375378131866455, 'learning_rate': 2.893506973455773e-07, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 814, 'epoch': 0.89}
+{'loss_total': 0.27575722336769104, 'loss_ce': 0.1439192146062851, 'loss_lvr': 1.3183801174163818, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 5434, 'epoch': 0.89}
+{'loss_total': 0.14463114738464355, 'loss_ce': 0.05178079009056091, 'loss_lvr': 0.9285034537315369, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 570, 'epoch': 0.89}
+{'loss_total': 0.952773928642273, 'loss_ce': 0.7592395544052124, 'loss_lvr': 1.9353435039520264, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 2122, 'epoch': 0.89}
+{'loss_total': 0.23277783393859863, 'loss_ce': 0.1189088374376297, 'loss_lvr': 1.1386899948120117, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 752, 'epoch': 0.89}
+{'loss_total': 0.3886103630065918, 'loss_ce': 0.2604210376739502, 'loss_lvr': 1.2818933725357056, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 1088, 'epoch': 0.89}
+{'loss_total': 0.8567383289337158, 'loss_ce': 0.7416247725486755, 'loss_lvr': 1.1511354446411133, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 608, 'epoch': 0.89}
+{'loss_total': 0.6785503625869751, 'loss_ce': 0.5620514750480652, 'loss_lvr': 1.1649891138076782, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 1, 'tokens_per_device': 4885, 'epoch': 0.89}
+{'loss_total': 0.14067599177360535, 'loss_ce': 0.05041678622364998, 'loss_lvr': 0.9025920629501343, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 2336, 'epoch': 0.89}
+{'loss_total': 0.34029409289360046, 'loss_ce': 0.1364244669675827, 'loss_lvr': 2.0386962890625, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 1, 'tokens_per_device': 5121, 'epoch': 0.89}
+{'loss_total': 0.4458317756652832, 'loss_ce': 0.2538813352584839, 'loss_lvr': 1.9195044040679932, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 818, 'epoch': 0.89}
+{'loss_total': 0.42419445514678955, 'loss_ce': 0.30474069714546204, 'loss_lvr': 1.1945374011993408, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 618, 'epoch': 0.89}
+{'loss_total': 0.2278805822134018, 'loss_ce': 0.11694978177547455, 'loss_lvr': 1.1093080043792725, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 4526, 'epoch': 0.89}
+{'loss_total': 0.15457069873809814, 'loss_ce': 0.05542931333184242, 'loss_lvr': 0.9914137721061707, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 1070, 'epoch': 0.89}
+{'loss_total': 0.9155559539794922, 'loss_ce': 0.7529062032699585, 'loss_lvr': 1.626497745513916, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 610, 'epoch': 0.89}
+{'loss_total': 0.8013020157814026, 'loss_ce': 0.6337958574295044, 'loss_lvr': 1.6750617027282715, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'batch_size': 2, 'tokens_per_device': 2518, 'epoch': 0.89}
+{'loss_total': 0.8029149770736694, 'loss_ce': 0.6991977691650391, 'loss_lvr': 1.0371718406677246, 'loss_mode_switch': 0.0, 'epoch': 0.89}
+{'loss': 0.4198, 'grad_norm': 2.8844261169433594, 'learning_rate': 2.833490633052699e-07, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 5186, 'epoch': 0.9}
+{'loss_total': 0.2208489179611206, 'loss_ce': 0.012143501080572605, 'loss_lvr': 2.0870540142059326, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 668, 'epoch': 0.9}
+{'loss_total': 0.2623283565044403, 'loss_ce': 0.08910036087036133, 'loss_lvr': 1.732279896736145, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 760, 'epoch': 0.9}
+{'loss_total': 0.4985969066619873, 'loss_ce': 0.2787379324436188, 'loss_lvr': 2.198589563369751, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 632, 'epoch': 0.9}
+{'loss_total': 0.4786425232887268, 'loss_ce': 0.31964075565338135, 'loss_lvr': 1.5900177955627441, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 4772, 'epoch': 0.9}
+{'loss_total': 0.14846721291542053, 'loss_ce': 0.0684816911816597, 'loss_lvr': 0.7998552918434143, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2166, 'epoch': 0.9}
+{'loss_total': 0.35818150639533997, 'loss_ce': 0.20369869470596313, 'loss_lvr': 1.5448280572891235, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2112, 'epoch': 0.9}
+{'loss_total': 0.4242534041404724, 'loss_ce': 0.2992492616176605, 'loss_lvr': 1.2500412464141846, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2128, 'epoch': 0.9}
+{'loss_total': 0.14585784077644348, 'loss_ce': 0.0457829087972641, 'loss_lvr': 1.0007493495941162, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 3490, 'epoch': 0.9}
+{'loss_total': 1.3228368759155273, 'loss_ce': 1.210280179977417, 'loss_lvr': 1.125567078590393, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 600, 'epoch': 0.9}
+{'loss_total': 0.35879021883010864, 'loss_ce': 0.1947356015443802, 'loss_lvr': 1.6405463218688965, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 698, 'epoch': 0.9}
+{'loss_total': 0.9528524279594421, 'loss_ce': 0.8358822464942932, 'loss_lvr': 1.1697015762329102, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2094, 'epoch': 0.9}
+{'loss_total': 0.30652934312820435, 'loss_ce': 0.17570355534553528, 'loss_lvr': 1.308257818222046, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 3624, 'epoch': 0.9}
+{'loss_total': 0.5660073161125183, 'loss_ce': 0.47686630487442017, 'loss_lvr': 0.8914100527763367, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 4878, 'epoch': 0.9}
+{'loss_total': 0.08886996656656265, 'loss_ce': 0.027090217918157578, 'loss_lvr': 0.6177974939346313, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 734, 'epoch': 0.9}
+{'loss_total': 0.25836488604545593, 'loss_ce': 0.12134546786546707, 'loss_lvr': 1.3701940774917603, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 5149, 'epoch': 0.9}
+{'loss_total': 0.13666917383670807, 'loss_ce': 0.0532924048602581, 'loss_lvr': 0.8337677121162415, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'loss': 0.4027, 'grad_norm': 2.711994171142578, 'learning_rate': 2.774085100381735e-07, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 1630, 'epoch': 0.9}
+{'loss_total': 0.4130653142929077, 'loss_ce': 0.2676225006580353, 'loss_lvr': 1.4544281959533691, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 592, 'epoch': 0.9}
+{'loss_total': 0.564174473285675, 'loss_ce': 0.28319427371025085, 'loss_lvr': 2.8098020553588867, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 5895, 'epoch': 0.9}
+{'loss_total': 0.22759197652339935, 'loss_ce': 0.18306049704551697, 'loss_lvr': 0.44531482458114624, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 4904, 'epoch': 0.9}
+{'loss_total': 0.16033069789409637, 'loss_ce': 0.03638302534818649, 'loss_lvr': 1.2394766807556152, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 764, 'epoch': 0.9}
+{'loss_total': 0.9445719122886658, 'loss_ce': 0.8215144276618958, 'loss_lvr': 1.2305750846862793, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2100, 'epoch': 0.9}
+{'loss_total': 0.2895508408546448, 'loss_ce': 0.15694491565227509, 'loss_lvr': 1.3260592222213745, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 576, 'epoch': 0.9}
+{'loss_total': 0.17276228964328766, 'loss_ce': 0.057342883199453354, 'loss_lvr': 1.1541941165924072, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 666, 'epoch': 0.9}
+{'loss_total': 0.324917197227478, 'loss_ce': 0.13302907347679138, 'loss_lvr': 1.9188811779022217, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 5094, 'epoch': 0.9}
+{'loss_total': 0.205323725938797, 'loss_ce': 0.02681930735707283, 'loss_lvr': 1.7850441932678223, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 896, 'epoch': 0.9}
+{'loss_total': 0.42001181840896606, 'loss_ce': 0.3232390284538269, 'loss_lvr': 0.9677280187606812, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 7228, 'epoch': 0.9}
+{'loss_total': 0.28575992584228516, 'loss_ce': 0.21057240664958954, 'loss_lvr': 0.7518752217292786, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 4956, 'epoch': 0.9}
+{'loss_total': 0.44692835211753845, 'loss_ce': 0.30109691619873047, 'loss_lvr': 1.458314299583435, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 4955, 'epoch': 0.9}
+{'loss_total': 0.09749700129032135, 'loss_ce': 0.06953195482492447, 'loss_lvr': 0.2796504497528076, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 650, 'epoch': 0.9}
+{'loss_total': 0.45934733748435974, 'loss_ce': 0.32255467772483826, 'loss_lvr': 1.3679265975952148, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 1570, 'epoch': 0.9}
+{'loss_total': 0.21586130559444427, 'loss_ce': 0.08052434027194977, 'loss_lvr': 1.3533695936203003, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 1874, 'epoch': 0.9}
+{'loss_total': 0.898980438709259, 'loss_ce': 0.7150620818138123, 'loss_lvr': 1.8391833305358887, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'loss': 0.4695, 'grad_norm': 3.2334060668945312, 'learning_rate': 2.715291144746329e-07, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2196, 'epoch': 0.9}
+{'loss_total': 0.4191398322582245, 'loss_ce': 0.28177985548973083, 'loss_lvr': 1.3735997676849365, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 4882, 'epoch': 0.9}
+{'loss_total': 0.8374508619308472, 'loss_ce': 0.7054118514060974, 'loss_lvr': 1.320389986038208, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 1608, 'epoch': 0.9}
+{'loss_total': 0.30722576379776, 'loss_ce': 0.16948257386684418, 'loss_lvr': 1.377431869506836, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2116, 'epoch': 0.9}
+{'loss_total': 0.24220232665538788, 'loss_ce': 0.023756589740514755, 'loss_lvr': 2.184457302093506, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2864, 'epoch': 0.9}
+{'loss_total': 0.1808890402317047, 'loss_ce': 0.045075707137584686, 'loss_lvr': 1.3581334352493286, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 3268, 'epoch': 0.9}
+{'loss_total': 0.7204634547233582, 'loss_ce': 0.6128567457199097, 'loss_lvr': 1.0760669708251953, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 714, 'epoch': 0.9}
+{'loss_total': 0.1759568452835083, 'loss_ce': 0.06687705218791962, 'loss_lvr': 1.0907979011535645, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2128, 'epoch': 0.9}
+{'loss_total': 0.6499615907669067, 'loss_ce': 0.5196747779846191, 'loss_lvr': 1.302868366241455, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 654, 'epoch': 0.9}
+{'loss_total': 0.5677887797355652, 'loss_ce': 0.41316887736320496, 'loss_lvr': 1.546198844909668, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2936, 'epoch': 0.9}
+{'loss_total': 0.12457463890314102, 'loss_ce': 0.007933318614959717, 'loss_lvr': 1.1664131879806519, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 1892, 'epoch': 0.9}
+{'loss_total': 0.5512934327125549, 'loss_ce': 0.44505342841148376, 'loss_lvr': 1.062400221824646, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2622, 'epoch': 0.9}
+{'loss_total': 0.10167785733938217, 'loss_ce': 0.010350107215344906, 'loss_lvr': 0.9132775068283081, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 710, 'epoch': 0.9}
+{'loss_total': 1.452840805053711, 'loss_ce': 1.319995403289795, 'loss_lvr': 1.328453779220581, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2548, 'epoch': 0.9}
+{'loss_total': 0.3478972613811493, 'loss_ce': 0.24917079508304596, 'loss_lvr': 0.9872645735740662, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2038, 'epoch': 0.9}
+{'loss_total': 0.25739923119544983, 'loss_ce': 0.05747949704527855, 'loss_lvr': 1.9991973638534546, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 786, 'epoch': 0.9}
+{'loss_total': 0.7982723116874695, 'loss_ce': 0.6694373488426208, 'loss_lvr': 1.2883497476577759, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'loss': 0.4387, 'grad_norm': 3.4164841175079346, 'learning_rate': 2.657109527530011e-07, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 830, 'epoch': 0.9}
+{'loss_total': 0.5937459468841553, 'loss_ce': 0.4355359971523285, 'loss_lvr': 1.5820996761322021, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2508, 'epoch': 0.9}
+{'loss_total': 0.2375064492225647, 'loss_ce': 0.14540252089500427, 'loss_lvr': 0.9210392236709595, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 756, 'epoch': 0.9}
+{'loss_total': 0.44890084862709045, 'loss_ce': 0.3124200403690338, 'loss_lvr': 1.3648080825805664, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 6426, 'epoch': 0.9}
+{'loss_total': 0.5284711718559265, 'loss_ce': 0.3915466070175171, 'loss_lvr': 1.3692454099655151, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 730, 'epoch': 0.9}
+{'loss_total': 0.20353883504867554, 'loss_ce': 0.1076739951968193, 'loss_lvr': 0.9586483836174011, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 804, 'epoch': 0.9}
+{'loss_total': 0.6363831162452698, 'loss_ce': 0.5036823153495789, 'loss_lvr': 1.3270080089569092, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 694, 'epoch': 0.9}
+{'loss_total': 0.28919661045074463, 'loss_ce': 0.06305289268493652, 'loss_lvr': 2.261436939239502, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 4813, 'epoch': 0.9}
+{'loss_total': 0.09318222105503082, 'loss_ce': 0.023206723853945732, 'loss_lvr': 0.6997549533843994, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2308, 'epoch': 0.9}
+{'loss_total': 0.5627842545509338, 'loss_ce': 0.43890202045440674, 'loss_lvr': 1.238822102546692, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2898, 'epoch': 0.9}
+{'loss_total': 0.17684535682201385, 'loss_ce': 0.0752389058470726, 'loss_lvr': 1.0160645246505737, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2108, 'epoch': 0.9}
+{'loss_total': 0.414794921875, 'loss_ce': 0.21932531893253326, 'loss_lvr': 1.9546959400177002, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 582, 'epoch': 0.9}
+{'loss_total': 0.6013640761375427, 'loss_ce': 0.41777074337005615, 'loss_lvr': 1.8359334468841553, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 5046, 'epoch': 0.9}
+{'loss_total': 0.3618634343147278, 'loss_ce': 0.21368685364723206, 'loss_lvr': 1.481765866279602, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 4850, 'epoch': 0.9}
+{'loss_total': 0.2014208436012268, 'loss_ce': 0.090863436460495, 'loss_lvr': 1.105574131011963, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2692, 'epoch': 0.9}
+{'loss_total': 0.5466838479042053, 'loss_ce': 0.4556956887245178, 'loss_lvr': 0.909881591796875, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 6701, 'epoch': 0.9}
+{'loss_total': 0.09132973849773407, 'loss_ce': 0.005354203749448061, 'loss_lvr': 0.8597553372383118, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'loss': 0.3916, 'grad_norm': 2.9116876125335693, 'learning_rate': 2.599541002186479e-07, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 1908, 'epoch': 0.9}
+{'loss_total': 0.36467689275741577, 'loss_ce': 0.2247554212808609, 'loss_lvr': 1.399214506149292, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 5270, 'epoch': 0.9}
+{'loss_total': 0.30865949392318726, 'loss_ce': 0.15806296467781067, 'loss_lvr': 1.5059651136398315, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2750, 'epoch': 0.9}
+{'loss_total': 0.16907073557376862, 'loss_ce': 0.04674370959401131, 'loss_lvr': 1.2232701778411865, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 5027, 'epoch': 0.9}
+{'loss_total': 0.21717998385429382, 'loss_ce': 0.04830554500222206, 'loss_lvr': 1.6887444257736206, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2034, 'epoch': 0.9}
+{'loss_total': 0.14148399233818054, 'loss_ce': 0.026540597900748253, 'loss_lvr': 1.149433970451355, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 698, 'epoch': 0.9}
+{'loss_total': 0.14338813722133636, 'loss_ce': 0.023780247196555138, 'loss_lvr': 1.196078896522522, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2882, 'epoch': 0.9}
+{'loss_total': 0.208912655711174, 'loss_ce': 0.09112495929002762, 'loss_lvr': 1.1778769493103027, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 632, 'epoch': 0.9}
+{'loss_total': 0.6119570732116699, 'loss_ce': 0.48284903168678284, 'loss_lvr': 1.291080117225647, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2162, 'epoch': 0.9}
+{'loss_total': 0.12406526505947113, 'loss_ce': 0.008796019479632378, 'loss_lvr': 1.152692437171936, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 590, 'epoch': 0.9}
+{'loss_total': 0.6186978220939636, 'loss_ce': 0.4787423312664032, 'loss_lvr': 1.3995550870895386, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 5176, 'epoch': 0.9}
+{'loss_total': 0.09900626540184021, 'loss_ce': 0.02545872889459133, 'loss_lvr': 0.7354753613471985, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2096, 'epoch': 0.9}
+{'loss_total': 0.21898770332336426, 'loss_ce': 0.07405944913625717, 'loss_lvr': 1.4492825269699097, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 580, 'epoch': 0.9}
+{'loss_total': 0.6980949640274048, 'loss_ce': 0.5158581137657166, 'loss_lvr': 1.8223682641983032, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 5174, 'epoch': 0.9}
+{'loss_total': 0.082548126578331, 'loss_ce': 0.01940644159913063, 'loss_lvr': 0.6314168572425842, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 634, 'epoch': 0.9}
+{'loss_total': 0.5823134779930115, 'loss_ce': 0.4298305809497833, 'loss_lvr': 1.5248290300369263, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2350, 'epoch': 0.9}
+{'loss_total': 0.4157271385192871, 'loss_ce': 0.31677675247192383, 'loss_lvr': 0.9895039796829224, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'loss': 0.3899, 'grad_norm': 3.466024160385132, 'learning_rate': 2.542586314229889e-07, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2152, 'epoch': 0.9}
+{'loss_total': 0.3237800598144531, 'loss_ce': 0.1704370230436325, 'loss_lvr': 1.5334303379058838, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 1912, 'epoch': 0.9}
+{'loss_total': 0.2776930034160614, 'loss_ce': 0.05571895092725754, 'loss_lvr': 2.219740629196167, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 1890, 'epoch': 0.9}
+{'loss_total': 1.022075891494751, 'loss_ce': 0.8603855967521667, 'loss_lvr': 1.6169025897979736, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 1910, 'epoch': 0.9}
+{'loss_total': 0.23967735469341278, 'loss_ce': 0.09194010496139526, 'loss_lvr': 1.477372407913208, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 682, 'epoch': 0.9}
+{'loss_total': 0.1967436671257019, 'loss_ce': 0.058977652341127396, 'loss_lvr': 1.3776601552963257, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 5136, 'epoch': 0.9}
+{'loss_total': 0.25214865803718567, 'loss_ce': 0.15751567482948303, 'loss_lvr': 0.9463297128677368, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2140, 'epoch': 0.9}
+{'loss_total': 0.27949267625808716, 'loss_ce': 0.12802349030971527, 'loss_lvr': 1.514691948890686, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2262, 'epoch': 0.9}
+{'loss_total': 0.41435641050338745, 'loss_ce': 0.29093727469444275, 'loss_lvr': 1.2341911792755127, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2128, 'epoch': 0.9}
+{'loss_total': 0.5093502402305603, 'loss_ce': 0.338140606880188, 'loss_lvr': 1.712096095085144, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2202, 'epoch': 0.9}
+{'loss_total': 0.13945241272449493, 'loss_ce': 0.017620224505662918, 'loss_lvr': 1.2183219194412231, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 6726, 'epoch': 0.9}
+{'loss_total': 0.25646892189979553, 'loss_ce': 0.1465941220521927, 'loss_lvr': 1.098747968673706, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 686, 'epoch': 0.9}
+{'loss_total': 0.7595335841178894, 'loss_ce': 0.6363304853439331, 'loss_lvr': 1.2320311069488525, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 5418, 'epoch': 0.9}
+{'loss_total': 0.4262450933456421, 'loss_ce': 0.3051280677318573, 'loss_lvr': 1.2111703157424927, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 772, 'epoch': 0.9}
+{'loss_total': 0.5768649578094482, 'loss_ce': 0.4490744471549988, 'loss_lvr': 1.2779052257537842, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 1988, 'epoch': 0.9}
+{'loss_total': 0.1917557418346405, 'loss_ce': 0.06737791746854782, 'loss_lvr': 1.2437782287597656, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 3800, 'epoch': 0.9}
+{'loss_total': 0.1754758358001709, 'loss_ce': 0.045774079859256744, 'loss_lvr': 1.2970174551010132, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'loss': 0.3985, 'grad_norm': 2.7687551975250244, 'learning_rate': 2.486246201225201e-07, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2228, 'epoch': 0.9}
+{'loss_total': 0.13644449412822723, 'loss_ce': 0.024180779233574867, 'loss_lvr': 1.122637152671814, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 674, 'epoch': 0.9}
+{'loss_total': 0.22044265270233154, 'loss_ce': 0.09214235097169876, 'loss_lvr': 1.2830029726028442, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 4935, 'epoch': 0.9}
+{'loss_total': 0.31039559841156006, 'loss_ce': 0.19817940890789032, 'loss_lvr': 1.122161865234375, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 5139, 'epoch': 0.9}
+{'loss_total': 0.07220114022493362, 'loss_ce': 0.014940998516976833, 'loss_lvr': 0.5726014375686646, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 558, 'epoch': 0.9}
+{'loss_total': 0.20393413305282593, 'loss_ce': 0.024703022092580795, 'loss_lvr': 1.7923110723495483, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 4589, 'epoch': 0.9}
+{'loss_total': 0.22101864218711853, 'loss_ce': 0.024508189409971237, 'loss_lvr': 1.9651044607162476, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2050, 'epoch': 0.9}
+{'loss_total': 0.5106946229934692, 'loss_ce': 0.39978787302970886, 'loss_lvr': 1.1090672016143799, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 3714, 'epoch': 0.9}
+{'loss_total': 0.10541970282793045, 'loss_ce': 0.025433959439396858, 'loss_lvr': 0.7998574376106262, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 4769, 'epoch': 0.9}
+{'loss_total': 0.34616610407829285, 'loss_ce': 0.2743208408355713, 'loss_lvr': 0.718452513217926, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 680, 'epoch': 0.9}
+{'loss_total': 0.2649727463722229, 'loss_ce': 0.13066251575946808, 'loss_lvr': 1.3431020975112915, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 824, 'epoch': 0.9}
+{'loss_total': 0.2507307231426239, 'loss_ce': 0.08908282965421677, 'loss_lvr': 1.6164788007736206, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 732, 'epoch': 0.9}
+{'loss_total': 0.4598888158798218, 'loss_ce': 0.3360879421234131, 'loss_lvr': 1.2380086183547974, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 4896, 'epoch': 0.9}
+{'loss_total': 0.08016767352819443, 'loss_ce': 0.04482420161366463, 'loss_lvr': 0.3534347116947174, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 1946, 'epoch': 0.9}
+{'loss_total': 0.4364538788795471, 'loss_ce': 0.27330610156059265, 'loss_lvr': 1.6314775943756104, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 616, 'epoch': 0.9}
+{'loss_total': 0.5028557181358337, 'loss_ce': 0.35351884365081787, 'loss_lvr': 1.4933685064315796, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2090, 'epoch': 0.9}
+{'loss_total': 0.2270897626876831, 'loss_ce': 0.10181157290935516, 'loss_lvr': 1.252781867980957, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'loss': 0.3601, 'grad_norm': 3.093066453933716, 'learning_rate': 2.430521392778573e-07, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 3356, 'epoch': 0.9}
+{'loss_total': 0.4206288456916809, 'loss_ce': 0.2872315049171448, 'loss_lvr': 1.3339731693267822, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 3134, 'epoch': 0.9}
+{'loss_total': 0.20439931750297546, 'loss_ce': 0.09597484022378922, 'loss_lvr': 1.084244728088379, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 594, 'epoch': 0.9}
+{'loss_total': 0.31052595376968384, 'loss_ce': 0.16587179899215698, 'loss_lvr': 1.446541666984558, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2144, 'epoch': 0.9}
+{'loss_total': 0.45193785429000854, 'loss_ce': 0.3080184757709503, 'loss_lvr': 1.439193844795227, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 5658, 'epoch': 0.9}
+{'loss_total': 0.26964902877807617, 'loss_ce': 0.19901002943515778, 'loss_lvr': 0.706389844417572, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 844, 'epoch': 0.9}
+{'loss_total': 1.0498515367507935, 'loss_ce': 0.8829216957092285, 'loss_lvr': 1.6692981719970703, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 574, 'epoch': 0.9}
+{'loss_total': 0.5681009292602539, 'loss_ce': 0.3470383882522583, 'loss_lvr': 2.210625648498535, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2234, 'epoch': 0.9}
+{'loss_total': 0.1915554255247116, 'loss_ce': 0.015289383009076118, 'loss_lvr': 1.7626603841781616, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 618, 'epoch': 0.9}
+{'loss_total': 0.34868624806404114, 'loss_ce': 0.18206337094306946, 'loss_lvr': 1.6662287712097168, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2118, 'epoch': 0.9}
+{'loss_total': 0.5960394144058228, 'loss_ce': 0.4642319679260254, 'loss_lvr': 1.3180747032165527, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2040, 'epoch': 0.9}
+{'loss_total': 0.19310876727104187, 'loss_ce': 0.06545918434858322, 'loss_lvr': 1.2764958143234253, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 4917, 'epoch': 0.9}
+{'loss_total': 0.19945886731147766, 'loss_ce': 0.08680959045886993, 'loss_lvr': 1.1264928579330444, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2168, 'epoch': 0.9}
+{'loss_total': 0.1831403374671936, 'loss_ce': 0.057409584522247314, 'loss_lvr': 1.257307529449463, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2426, 'epoch': 0.9}
+{'loss_total': 0.20710445940494537, 'loss_ce': 0.107220359146595, 'loss_lvr': 0.9988409876823425, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2550, 'epoch': 0.9}
+{'loss_total': 0.13690124452114105, 'loss_ce': 0.027176985517144203, 'loss_lvr': 1.0972425937652588, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 758, 'epoch': 0.9}
+{'loss_total': 0.73015958070755, 'loss_ce': 0.5870211720466614, 'loss_lvr': 1.4313842058181763, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'loss': 0.3779, 'grad_norm': 2.8580682277679443, 'learning_rate': 2.3754126105279828e-07, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 5101, 'epoch': 0.9}
+{'loss_total': 0.14039798080921173, 'loss_ce': 0.055465009063482285, 'loss_lvr': 0.8493297100067139, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 682, 'epoch': 0.9}
+{'loss_total': 0.2244119793176651, 'loss_ce': 0.10866428911685944, 'loss_lvr': 1.1574769020080566, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 654, 'epoch': 0.9}
+{'loss_total': 0.6164700388908386, 'loss_ce': 0.4939495921134949, 'loss_lvr': 1.225204586982727, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 582, 'epoch': 0.9}
+{'loss_total': 0.2624908983707428, 'loss_ce': 0.1136336401104927, 'loss_lvr': 1.488572597503662, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 840, 'epoch': 0.9}
+{'loss_total': 0.31675177812576294, 'loss_ce': 0.137458935379982, 'loss_lvr': 1.7929283380508423, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 1968, 'epoch': 0.9}
+{'loss_total': 0.43257230520248413, 'loss_ce': 0.2540634274482727, 'loss_lvr': 1.7850885391235352, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2254, 'epoch': 0.9}
+{'loss_total': 0.2155529260635376, 'loss_ce': 0.017610369250178337, 'loss_lvr': 1.9794255495071411, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2782, 'epoch': 0.9}
+{'loss_total': 0.22373227775096893, 'loss_ce': 0.11977282166481018, 'loss_lvr': 1.0395945310592651, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 3304, 'epoch': 0.9}
+{'loss_total': 0.17034652829170227, 'loss_ce': 0.025859622284770012, 'loss_lvr': 1.444869041442871, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 1948, 'epoch': 0.9}
+{'loss_total': 0.13909916579723358, 'loss_ce': 0.01681009866297245, 'loss_lvr': 1.2228906154632568, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2290, 'epoch': 0.9}
+{'loss_total': 0.20602010190486908, 'loss_ce': 0.037162572145462036, 'loss_lvr': 1.688575267791748, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 2324, 'epoch': 0.9}
+{'loss_total': 0.37711167335510254, 'loss_ce': 0.23653025925159454, 'loss_lvr': 1.4058141708374023, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 1, 'tokens_per_device': 5844, 'epoch': 0.9}
+{'loss_total': 0.1637876182794571, 'loss_ce': 0.0789555162191391, 'loss_lvr': 0.8483210206031799, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 628, 'epoch': 0.9}
+{'loss_total': 1.3453212976455688, 'loss_ce': 1.0583069324493408, 'loss_lvr': 2.870143175125122, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 620, 'epoch': 0.9}
+{'loss_total': 0.36328792572021484, 'loss_ce': 0.25532907247543335, 'loss_lvr': 1.0795884132385254, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'batch_size': 2, 'tokens_per_device': 1878, 'epoch': 0.9}
+{'loss_total': 0.19965587556362152, 'loss_ce': 0.03431558981537819, 'loss_lvr': 1.6534029245376587, 'loss_mode_switch': 0.0, 'epoch': 0.9}
+{'loss': 0.3876, 'grad_norm': 3.2042529582977295, 'learning_rate': 2.3209205681338332e-07, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 670, 'epoch': 0.91}
+{'loss_total': 0.43835628032684326, 'loss_ce': 0.27011993527412415, 'loss_lvr': 1.6823633909225464, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2256, 'epoch': 0.91}
+{'loss_total': 0.3123137652873993, 'loss_ce': 0.10023646801710129, 'loss_lvr': 2.1207728385925293, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 722, 'epoch': 0.91}
+{'loss_total': 0.8345476984977722, 'loss_ce': 0.6782123446464539, 'loss_lvr': 1.5633535385131836, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2772, 'epoch': 0.91}
+{'loss_total': 0.1686895787715912, 'loss_ce': 0.0749802440404892, 'loss_lvr': 0.9370933175086975, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2524, 'epoch': 0.91}
+{'loss_total': 0.17561973631381989, 'loss_ce': 0.06916756927967072, 'loss_lvr': 1.0645216703414917, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2000, 'epoch': 0.91}
+{'loss_total': 0.35888826847076416, 'loss_ce': 0.22076286375522614, 'loss_lvr': 1.381253957748413, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 682, 'epoch': 0.91}
+{'loss_total': 0.36316293478012085, 'loss_ce': 0.22333234548568726, 'loss_lvr': 1.398305892944336, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 4995, 'epoch': 0.91}
+{'loss_total': 0.14581996202468872, 'loss_ce': 0.08807704597711563, 'loss_lvr': 0.5774292349815369, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 680, 'epoch': 0.91}
+{'loss_total': 0.8389667868614197, 'loss_ce': 0.7226539254188538, 'loss_lvr': 1.16312837600708, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 718, 'epoch': 0.91}
+{'loss_total': 0.181160569190979, 'loss_ce': 0.0756036788225174, 'loss_lvr': 1.055568814277649, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 7142, 'epoch': 0.91}
+{'loss_total': 0.09119987487792969, 'loss_ce': 0.00542610976845026, 'loss_lvr': 0.85773766040802, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2276, 'epoch': 0.91}
+{'loss_total': 0.10000243782997131, 'loss_ce': 0.015542219392955303, 'loss_lvr': 0.8446021676063538, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1988, 'epoch': 0.91}
+{'loss_total': 1.3725849390029907, 'loss_ce': 1.1539345979690552, 'loss_lvr': 2.1865031719207764, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 592, 'epoch': 0.91}
+{'loss_total': 0.23045122623443604, 'loss_ce': 0.018640168011188507, 'loss_lvr': 2.1181106567382812, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 686, 'epoch': 0.91}
+{'loss_total': 0.47021645307540894, 'loss_ce': 0.21344919502735138, 'loss_lvr': 2.5676722526550293, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 4706, 'epoch': 0.91}
+{'loss_total': 0.2887476980686188, 'loss_ce': 0.026930641382932663, 'loss_lvr': 2.618170738220215, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'loss': 0.3674, 'grad_norm': 3.4116506576538086, 'learning_rate': 2.267045971269738e-07, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2032, 'epoch': 0.91}
+{'loss_total': 0.5286391973495483, 'loss_ce': 0.26066890358924866, 'loss_lvr': 2.6797032356262207, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 654, 'epoch': 0.91}
+{'loss_total': 0.25714242458343506, 'loss_ce': 0.07179869711399078, 'loss_lvr': 1.8534371852874756, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2118, 'epoch': 0.91}
+{'loss_total': 0.3204805254936218, 'loss_ce': 0.16022247076034546, 'loss_lvr': 1.6025803089141846, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 7580, 'epoch': 0.91}
+{'loss_total': 0.4670313596725464, 'loss_ce': 0.335746705532074, 'loss_lvr': 1.3128464221954346, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 720, 'epoch': 0.91}
+{'loss_total': 1.049043893814087, 'loss_ce': 0.9073982834815979, 'loss_lvr': 1.416456699371338, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2110, 'epoch': 0.91}
+{'loss_total': 0.7029886245727539, 'loss_ce': 0.5256029367446899, 'loss_lvr': 1.773856520652771, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2230, 'epoch': 0.91}
+{'loss_total': 0.12752175331115723, 'loss_ce': 0.008292953483760357, 'loss_lvr': 1.1922879219055176, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 5126, 'epoch': 0.91}
+{'loss_total': 0.539116382598877, 'loss_ce': 0.4564933180809021, 'loss_lvr': 0.8262304067611694, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 586, 'epoch': 0.91}
+{'loss_total': 0.5559338331222534, 'loss_ce': 0.3566122055053711, 'loss_lvr': 1.9932162761688232, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 640, 'epoch': 0.91}
+{'loss_total': 0.27226150035858154, 'loss_ce': 0.10649051517248154, 'loss_lvr': 1.6577097177505493, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2916, 'epoch': 0.91}
+{'loss_total': 0.48516589403152466, 'loss_ce': 0.3875707983970642, 'loss_lvr': 0.9759509563446045, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 898, 'epoch': 0.91}
+{'loss_total': 0.30853646993637085, 'loss_ce': 0.19941307604312897, 'loss_lvr': 1.0912338495254517, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 5515, 'epoch': 0.91}
+{'loss_total': 0.07997114211320877, 'loss_ce': 0.016753269359469414, 'loss_lvr': 0.6321786642074585, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 574, 'epoch': 0.91}
+{'loss_total': 0.4359752833843231, 'loss_ce': 0.18907982110977173, 'loss_lvr': 2.468954563140869, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2298, 'epoch': 0.91}
+{'loss_total': 0.23199325799942017, 'loss_ce': 0.10757599025964737, 'loss_lvr': 1.2441726922988892, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2872, 'epoch': 0.91}
+{'loss_total': 1.1273375749588013, 'loss_ce': 1.028782844543457, 'loss_lvr': 0.9855470061302185, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'loss': 0.4125, 'grad_norm': 2.8244900703430176, 'learning_rate': 2.213789517613363e-07, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 4200, 'epoch': 0.91}
+{'loss_total': 0.6806930303573608, 'loss_ce': 0.5251529216766357, 'loss_lvr': 1.55540132522583, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 576, 'epoch': 0.91}
+{'loss_total': 0.549843966960907, 'loss_ce': 0.28512951731681824, 'loss_lvr': 2.6471445560455322, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 4754, 'epoch': 0.91}
+{'loss_total': 0.08938837051391602, 'loss_ce': 0.021128404885530472, 'loss_lvr': 0.682599663734436, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 5149, 'epoch': 0.91}
+{'loss_total': 0.49908021092414856, 'loss_ce': 0.4275331497192383, 'loss_lvr': 0.715470552444458, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 552, 'epoch': 0.91}
+{'loss_total': 0.19319024682044983, 'loss_ce': 0.06843984872102737, 'loss_lvr': 1.2475038766860962, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1674, 'epoch': 0.91}
+{'loss_total': 0.1752832680940628, 'loss_ce': 0.04578770697116852, 'loss_lvr': 1.2949556112289429, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1872, 'epoch': 0.91}
+{'loss_total': 0.47950053215026855, 'loss_ce': 0.27181705832481384, 'loss_lvr': 2.0768349170684814, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2116, 'epoch': 0.91}
+{'loss_total': 0.5695706605911255, 'loss_ce': 0.4570583701133728, 'loss_lvr': 1.1251229047775269, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 764, 'epoch': 0.91}
+{'loss_total': 0.9555541276931763, 'loss_ce': 0.807489275932312, 'loss_lvr': 1.480648159980774, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1496, 'epoch': 0.91}
+{'loss_total': 0.5349490642547607, 'loss_ce': 0.4126175045967102, 'loss_lvr': 1.2233155965805054, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1068, 'epoch': 0.91}
+{'loss_total': 0.9749000668525696, 'loss_ce': 0.8598564267158508, 'loss_lvr': 1.1504364013671875, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 588, 'epoch': 0.91}
+{'loss_total': 0.3138415217399597, 'loss_ce': 0.1919182389974594, 'loss_lvr': 1.2192326784133911, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 942, 'epoch': 0.91}
+{'loss_total': 0.1716674268245697, 'loss_ce': 0.03483601287007332, 'loss_lvr': 1.3683141469955444, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 4940, 'epoch': 0.91}
+{'loss_total': 0.5189902782440186, 'loss_ce': 0.4117942750453949, 'loss_lvr': 1.0719603300094604, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 642, 'epoch': 0.91}
+{'loss_total': 0.4830821752548218, 'loss_ce': 0.34578922390937805, 'loss_lvr': 1.3729296922683716, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 5159, 'epoch': 0.91}
+{'loss_total': 0.1278214454650879, 'loss_ce': 0.015211973339319229, 'loss_lvr': 1.1260946989059448, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'loss': 0.4473, 'grad_norm': 2.8932571411132812, 'learning_rate': 2.161151896837399e-07, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1910, 'epoch': 0.91}
+{'loss_total': 0.9353160858154297, 'loss_ce': 0.7779259085655212, 'loss_lvr': 1.5739017724990845, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 4873, 'epoch': 0.91}
+{'loss_total': 0.21634754538536072, 'loss_ce': 0.07499336451292038, 'loss_lvr': 1.4135419130325317, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 728, 'epoch': 0.91}
+{'loss_total': 1.0932221412658691, 'loss_ce': 0.9662198424339294, 'loss_lvr': 1.2700226306915283, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 742, 'epoch': 0.91}
+{'loss_total': 0.17057770490646362, 'loss_ce': 0.053347162902355194, 'loss_lvr': 1.1723053455352783, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2006, 'epoch': 0.91}
+{'loss_total': 0.22649496793746948, 'loss_ce': 0.0806136503815651, 'loss_lvr': 1.4588130712509155, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 718, 'epoch': 0.91}
+{'loss_total': 0.7511726021766663, 'loss_ce': 0.6571663618087769, 'loss_lvr': 0.9400625824928284, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1904, 'epoch': 0.91}
+{'loss_total': 0.6245281100273132, 'loss_ce': 0.4412412941455841, 'loss_lvr': 1.8328683376312256, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1960, 'epoch': 0.91}
+{'loss_total': 1.018690586090088, 'loss_ce': 0.9101095199584961, 'loss_lvr': 1.085810899734497, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2234, 'epoch': 0.91}
+{'loss_total': 0.26782676577568054, 'loss_ce': 0.1580033302307129, 'loss_lvr': 1.0982344150543213, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 670, 'epoch': 0.91}
+{'loss_total': 0.40108126401901245, 'loss_ce': 0.24531008303165436, 'loss_lvr': 1.5577117204666138, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 894, 'epoch': 0.91}
+{'loss_total': 0.6593855619430542, 'loss_ce': 0.5337986946105957, 'loss_lvr': 1.2558685541152954, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2120, 'epoch': 0.91}
+{'loss_total': 0.27921250462532043, 'loss_ce': 0.12939327955245972, 'loss_lvr': 1.4981921911239624, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2016, 'epoch': 0.91}
+{'loss_total': 0.45780399441719055, 'loss_ce': 0.3487861454486847, 'loss_lvr': 1.0901784896850586, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 766, 'epoch': 0.91}
+{'loss_total': 0.1761963665485382, 'loss_ce': 0.06493595987558365, 'loss_lvr': 1.112604022026062, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1398, 'epoch': 0.91}
+{'loss_total': 0.6447518467903137, 'loss_ce': 0.43387773633003235, 'loss_lvr': 2.108741044998169, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1966, 'epoch': 0.91}
+{'loss_total': 0.15766574442386627, 'loss_ce': 0.013813101686537266, 'loss_lvr': 1.4385263919830322, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'loss': 0.4731, 'grad_norm': 3.8813636302948, 'learning_rate': 2.109133790600648e-07, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1474, 'epoch': 0.91}
+{'loss_total': 0.8923787474632263, 'loss_ce': 0.7513672113418579, 'loss_lvr': 1.4101152420043945, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 734, 'epoch': 0.91}
+{'loss_total': 0.19427943229675293, 'loss_ce': 0.06645122915506363, 'loss_lvr': 1.2782819271087646, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1886, 'epoch': 0.91}
+{'loss_total': 0.2894752025604248, 'loss_ce': 0.06690450757741928, 'loss_lvr': 2.2257068157196045, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 4821, 'epoch': 0.91}
+{'loss_total': 0.0883171334862709, 'loss_ce': 0.01784052886068821, 'loss_lvr': 0.704766035079956, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 672, 'epoch': 0.91}
+{'loss_total': 0.2538256049156189, 'loss_ce': 0.1266860067844391, 'loss_lvr': 1.2713958024978638, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2502, 'epoch': 0.91}
+{'loss_total': 0.28206154704093933, 'loss_ce': 0.15819533169269562, 'loss_lvr': 1.2386621236801147, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 598, 'epoch': 0.91}
+{'loss_total': 0.799431562423706, 'loss_ce': 0.6695666313171387, 'loss_lvr': 1.298649549484253, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 4897, 'epoch': 0.91}
+{'loss_total': 0.20622950792312622, 'loss_ce': 0.1274833083152771, 'loss_lvr': 0.7874619960784912, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 4949, 'epoch': 0.91}
+{'loss_total': 0.35729512572288513, 'loss_ce': 0.28723016381263733, 'loss_lvr': 0.700649619102478, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 4768, 'epoch': 0.91}
+{'loss_total': 0.18814480304718018, 'loss_ce': 0.14366090297698975, 'loss_lvr': 0.44483891129493713, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2130, 'epoch': 0.91}
+{'loss_total': 0.17103074491024017, 'loss_ce': 0.045261770486831665, 'loss_lvr': 1.2576897144317627, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2174, 'epoch': 0.91}
+{'loss_total': 0.2528696656227112, 'loss_ce': 0.05641729012131691, 'loss_lvr': 1.9645236730575562, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2018, 'epoch': 0.91}
+{'loss_total': 0.190519317984581, 'loss_ce': 0.05498835816979408, 'loss_lvr': 1.3553096055984497, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2278, 'epoch': 0.91}
+{'loss_total': 0.35081321001052856, 'loss_ce': 0.22260573506355286, 'loss_lvr': 1.2820746898651123, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1906, 'epoch': 0.91}
+{'loss_total': 0.6237000226974487, 'loss_ce': 0.40945741534233093, 'loss_lvr': 2.142426013946533, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2126, 'epoch': 0.91}
+{'loss_total': 0.31789714097976685, 'loss_ce': 0.18721966445446014, 'loss_lvr': 1.3067748546600342, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'loss': 0.3659, 'grad_norm': 3.235525369644165, 'learning_rate': 2.057735872539157e-07, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1882, 'epoch': 0.91}
+{'loss_total': 0.3060038685798645, 'loss_ce': 0.10317091643810272, 'loss_lvr': 2.028329372406006, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 944, 'epoch': 0.91}
+{'loss_total': 0.4597817659378052, 'loss_ce': 0.3306899666786194, 'loss_lvr': 1.2909178733825684, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1462, 'epoch': 0.91}
+{'loss_total': 0.6838595867156982, 'loss_ce': 0.5037171244621277, 'loss_lvr': 1.8014246225357056, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 562, 'epoch': 0.91}
+{'loss_total': 0.32606297731399536, 'loss_ce': 0.1811732053756714, 'loss_lvr': 1.4488976001739502, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 5062, 'epoch': 0.91}
+{'loss_total': 0.6000970005989075, 'loss_ce': 0.46423089504241943, 'loss_lvr': 1.3586610555648804, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2678, 'epoch': 0.91}
+{'loss_total': 0.18666976690292358, 'loss_ce': 0.06318780779838562, 'loss_lvr': 1.2348196506500244, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2284, 'epoch': 0.91}
+{'loss_total': 0.16988778114318848, 'loss_ce': 0.05920923501253128, 'loss_lvr': 1.1067854166030884, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 716, 'epoch': 0.91}
+{'loss_total': 0.26959431171417236, 'loss_ce': 0.14359717071056366, 'loss_lvr': 1.259971261024475, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 5122, 'epoch': 0.91}
+{'loss_total': 0.07467715442180634, 'loss_ce': 0.01771666295826435, 'loss_lvr': 0.5696049332618713, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 574, 'epoch': 0.91}
+{'loss_total': 0.8026955127716064, 'loss_ce': 0.6945908069610596, 'loss_lvr': 1.0810468196868896, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2102, 'epoch': 0.91}
+{'loss_total': 0.20008397102355957, 'loss_ce': 0.035194531083106995, 'loss_lvr': 1.6488944292068481, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2296, 'epoch': 0.91}
+{'loss_total': 0.11264237761497498, 'loss_ce': 0.017116939648985863, 'loss_lvr': 0.9552543759346008, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 608, 'epoch': 0.91}
+{'loss_total': 0.35432368516921997, 'loss_ce': 0.19322584569454193, 'loss_lvr': 1.610978364944458, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 3022, 'epoch': 0.91}
+{'loss_total': 0.13509446382522583, 'loss_ce': 0.021030165255069733, 'loss_lvr': 1.1406428813934326, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1904, 'epoch': 0.91}
+{'loss_total': 0.43697094917297363, 'loss_ce': 0.2131151258945465, 'loss_lvr': 2.238558053970337, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 674, 'epoch': 0.91}
+{'loss_total': 0.8168854713439941, 'loss_ce': 0.6735084652900696, 'loss_lvr': 1.4337701797485352, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'loss': 0.3863, 'grad_norm': 2.7523107528686523, 'learning_rate': 2.006958808257542e-07, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 600, 'epoch': 0.91}
+{'loss_total': 0.45768189430236816, 'loss_ce': 0.22166216373443604, 'loss_lvr': 2.360197067260742, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2184, 'epoch': 0.91}
+{'loss_total': 0.3758610486984253, 'loss_ce': 0.2239086776971817, 'loss_lvr': 1.5195237398147583, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2210, 'epoch': 0.91}
+{'loss_total': 0.7059907913208008, 'loss_ce': 0.5512580871582031, 'loss_lvr': 1.5473271608352661, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 658, 'epoch': 0.91}
+{'loss_total': 0.685340166091919, 'loss_ce': 0.5155957937240601, 'loss_lvr': 1.6974438428878784, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 790, 'epoch': 0.91}
+{'loss_total': 0.462067574262619, 'loss_ce': 0.32664984464645386, 'loss_lvr': 1.3541772365570068, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 4952, 'epoch': 0.91}
+{'loss_total': 0.1190207302570343, 'loss_ce': 0.07963930070400238, 'loss_lvr': 0.39381423592567444, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1898, 'epoch': 0.91}
+{'loss_total': 0.5824630856513977, 'loss_ce': 0.4167800545692444, 'loss_lvr': 1.6568303108215332, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 4342, 'epoch': 0.91}
+{'loss_total': 0.30636557936668396, 'loss_ce': 0.1623382270336151, 'loss_lvr': 1.4402735233306885, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 784, 'epoch': 0.91}
+{'loss_total': 0.48315829038619995, 'loss_ce': 0.3705163896083832, 'loss_lvr': 1.126418948173523, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 4918, 'epoch': 0.91}
+{'loss_total': 0.13672396540641785, 'loss_ce': 0.013732469640672207, 'loss_lvr': 1.229914903640747, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 4820, 'epoch': 0.91}
+{'loss_total': 0.12679257988929749, 'loss_ce': 0.06965845078229904, 'loss_lvr': 0.5713412761688232, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 4913, 'epoch': 0.91}
+{'loss_total': 0.05531764030456543, 'loss_ce': 0.012511936947703362, 'loss_lvr': 0.4280570447444916, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1972, 'epoch': 0.91}
+{'loss_total': 0.4507988691329956, 'loss_ce': 0.28376126289367676, 'loss_lvr': 1.6703758239746094, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1896, 'epoch': 0.91}
+{'loss_total': 0.5615266561508179, 'loss_ce': 0.3792678117752075, 'loss_lvr': 1.8225880861282349, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1900, 'epoch': 0.91}
+{'loss_total': 0.30481958389282227, 'loss_ce': 0.15712203085422516, 'loss_lvr': 1.4769755601882935, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 4747, 'epoch': 0.91}
+{'loss_total': 0.2712867856025696, 'loss_ce': 0.1673474907875061, 'loss_lvr': 1.0393929481506348, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'loss': 0.3747, 'grad_norm': 2.74153733253479, 'learning_rate': 1.956803255320322e-07, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1924, 'epoch': 0.91}
+{'loss_total': 0.35253310203552246, 'loss_ce': 0.20693662762641907, 'loss_lvr': 1.4559648036956787, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 4646, 'epoch': 0.91}
+{'loss_total': 0.22603291273117065, 'loss_ce': 0.1342964768409729, 'loss_lvr': 0.9173643589019775, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 4870, 'epoch': 0.91}
+{'loss_total': 0.5891780257225037, 'loss_ce': 0.4783893823623657, 'loss_lvr': 1.1078866720199585, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 5140, 'epoch': 0.91}
+{'loss_total': 0.2776517868041992, 'loss_ce': 0.01138284057378769, 'loss_lvr': 2.662689208984375, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1976, 'epoch': 0.91}
+{'loss_total': 0.42658519744873047, 'loss_ce': 0.26085516810417175, 'loss_lvr': 1.6573001146316528, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 618, 'epoch': 0.91}
+{'loss_total': 0.623247504234314, 'loss_ce': 0.4597943127155304, 'loss_lvr': 1.6345322132110596, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 6388, 'epoch': 0.91}
+{'loss_total': 0.07078363001346588, 'loss_ce': 0.0075419205240905285, 'loss_lvr': 0.6324171423912048, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1412, 'epoch': 0.91}
+{'loss_total': 0.2654725909233093, 'loss_ce': 0.0881529375910759, 'loss_lvr': 1.7731964588165283, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 608, 'epoch': 0.91}
+{'loss_total': 0.3034874200820923, 'loss_ce': 0.09946560859680176, 'loss_lvr': 2.0402181148529053, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 4743, 'epoch': 0.91}
+{'loss_total': 0.14307963848114014, 'loss_ce': 0.04014372080564499, 'loss_lvr': 1.0293591022491455, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 5185, 'epoch': 0.91}
+{'loss_total': 0.11978976428508759, 'loss_ce': 0.043413568288087845, 'loss_lvr': 0.7637618780136108, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2116, 'epoch': 0.91}
+{'loss_total': 0.43096452951431274, 'loss_ce': 0.19433003664016724, 'loss_lvr': 2.366344690322876, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2088, 'epoch': 0.91}
+{'loss_total': 0.8631792664527893, 'loss_ce': 0.7267732620239258, 'loss_lvr': 1.3640599250793457, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2498, 'epoch': 0.91}
+{'loss_total': 0.3141885995864868, 'loss_ce': 0.20569689571857452, 'loss_lvr': 1.0849170684814453, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 670, 'epoch': 0.91}
+{'loss_total': 0.5994670391082764, 'loss_ce': 0.4396933317184448, 'loss_lvr': 1.5977370738983154, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 5094, 'epoch': 0.91}
+{'loss_total': 0.6480247974395752, 'loss_ce': 0.6061303615570068, 'loss_lvr': 0.4189441502094269, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'loss': 0.3996, 'grad_norm': 3.0509071350097656, 'learning_rate': 1.9072698632434328e-07, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 4804, 'epoch': 0.91}
+{'loss_total': 0.2555053234100342, 'loss_ce': 0.12202024459838867, 'loss_lvr': 1.3348509073257446, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 4477, 'epoch': 0.91}
+{'loss_total': 0.11527075618505478, 'loss_ce': 0.026292458176612854, 'loss_lvr': 0.8897829651832581, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2160, 'epoch': 0.91}
+{'loss_total': 0.6741837859153748, 'loss_ce': 0.5394912958145142, 'loss_lvr': 1.3469246625900269, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2584, 'epoch': 0.91}
+{'loss_total': 0.162847101688385, 'loss_ce': 0.061916783452034, 'loss_lvr': 1.0093032121658325, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2318, 'epoch': 0.91}
+{'loss_total': 0.33752167224884033, 'loss_ce': 0.20929183065891266, 'loss_lvr': 1.2822983264923096, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 5220, 'epoch': 0.91}
+{'loss_total': 0.14725622534751892, 'loss_ce': 0.06434503942728043, 'loss_lvr': 0.8291117548942566, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 5358, 'epoch': 0.91}
+{'loss_total': 0.20609663426876068, 'loss_ce': 0.031662359833717346, 'loss_lvr': 1.7443426847457886, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1916, 'epoch': 0.91}
+{'loss_total': 0.1937321573495865, 'loss_ce': 0.03708121180534363, 'loss_lvr': 1.5665093660354614, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2246, 'epoch': 0.91}
+{'loss_total': 0.20463991165161133, 'loss_ce': 0.1155938059091568, 'loss_lvr': 0.8904609680175781, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 3454, 'epoch': 0.91}
+{'loss_total': 0.3199245035648346, 'loss_ce': 0.08078140765428543, 'loss_lvr': 2.3914308547973633, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2746, 'epoch': 0.91}
+{'loss_total': 0.1493200957775116, 'loss_ce': 0.0697721540927887, 'loss_lvr': 0.795479416847229, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 2274, 'epoch': 0.91}
+{'loss_total': 0.14829838275909424, 'loss_ce': 0.02852187678217888, 'loss_lvr': 1.1977651119232178, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 1964, 'epoch': 0.91}
+{'loss_total': 0.7883344888687134, 'loss_ce': 0.6617303490638733, 'loss_lvr': 1.2660411596298218, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 5232, 'epoch': 0.91}
+{'loss_total': 0.15675531327724457, 'loss_ce': 0.04065009579062462, 'loss_lvr': 1.1610521078109741, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 2, 'tokens_per_device': 794, 'epoch': 0.91}
+{'loss_total': 0.3729982376098633, 'loss_ce': 0.2417430281639099, 'loss_lvr': 1.3125522136688232, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'batch_size': 1, 'tokens_per_device': 5178, 'epoch': 0.91}
+{'loss_total': 0.14631962776184082, 'loss_ce': 0.007552770432084799, 'loss_lvr': 1.387668490409851, 'loss_mode_switch': 0.0, 'epoch': 0.91}
+{'loss': 0.3578, 'grad_norm': 3.540353536605835, 'learning_rate': 1.8583592734858214e-07, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2120, 'epoch': 0.92}
+{'loss_total': 0.24899287521839142, 'loss_ce': 0.08746032416820526, 'loss_lvr': 1.6153254508972168, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 1, 'tokens_per_device': 4880, 'epoch': 0.92}
+{'loss_total': 0.05464751273393631, 'loss_ce': 0.005052149295806885, 'loss_lvr': 0.49595361948013306, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 602, 'epoch': 0.92}
+{'loss_total': 0.9863074421882629, 'loss_ce': 0.7963540554046631, 'loss_lvr': 1.899533987045288, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 1460, 'epoch': 0.92}
+{'loss_total': 0.17534476518630981, 'loss_ce': 0.06915605068206787, 'loss_lvr': 1.0618870258331299, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2118, 'epoch': 0.92}
+{'loss_total': 0.592799186706543, 'loss_ce': 0.4490886926651001, 'loss_lvr': 1.4371047019958496, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 748, 'epoch': 0.92}
+{'loss_total': 0.5553829073905945, 'loss_ce': 0.4132925271987915, 'loss_lvr': 1.4209039211273193, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2852, 'epoch': 0.92}
+{'loss_total': 0.3236026167869568, 'loss_ce': 0.19870056211948395, 'loss_lvr': 1.2490205764770508, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 1910, 'epoch': 0.92}
+{'loss_total': 0.23743419349193573, 'loss_ce': 0.11115273833274841, 'loss_lvr': 1.2628145217895508, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 968, 'epoch': 0.92}
+{'loss_total': 0.6307715177536011, 'loss_ce': 0.4840167164802551, 'loss_lvr': 1.467548131942749, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 1928, 'epoch': 0.92}
+{'loss_total': 0.22620253264904022, 'loss_ce': 0.11051089316606522, 'loss_lvr': 1.1569163799285889, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 1930, 'epoch': 0.92}
+{'loss_total': 0.9213160872459412, 'loss_ce': 0.7790517807006836, 'loss_lvr': 1.4226428270339966, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2904, 'epoch': 0.92}
+{'loss_total': 0.1593262255191803, 'loss_ce': 0.0646667331457138, 'loss_lvr': 0.9465948939323425, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 560, 'epoch': 0.92}
+{'loss_total': 0.26951876282691956, 'loss_ce': 0.07564438879489899, 'loss_lvr': 1.9387437105178833, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 1914, 'epoch': 0.92}
+{'loss_total': 0.14441171288490295, 'loss_ce': 0.023740539327263832, 'loss_lvr': 1.2067116498947144, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 816, 'epoch': 0.92}
+{'loss_total': 1.365893840789795, 'loss_ce': 1.202189326286316, 'loss_lvr': 1.6370455026626587, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2416, 'epoch': 0.92}
+{'loss_total': 0.21097612380981445, 'loss_ce': 0.08920693397521973, 'loss_lvr': 1.2176917791366577, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'loss': 0.4446, 'grad_norm': 4.2816009521484375, 'learning_rate': 1.810072119441103e-07, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2360, 'epoch': 0.92}
+{'loss_total': 0.3560517728328705, 'loss_ce': 0.25418800115585327, 'loss_lvr': 1.018637776374817, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2866, 'epoch': 0.92}
+{'loss_total': 0.28489863872528076, 'loss_ce': 0.028368918225169182, 'loss_lvr': 2.5652971267700195, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2332, 'epoch': 0.92}
+{'loss_total': 0.13271163403987885, 'loss_ce': 0.02926219440996647, 'loss_lvr': 1.034494400024414, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 1706, 'epoch': 0.92}
+{'loss_total': 0.1448785811662674, 'loss_ce': 0.035467807203531265, 'loss_lvr': 1.094107747077942, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 772, 'epoch': 0.92}
+{'loss_total': 0.36630779504776, 'loss_ce': 0.1251278519630432, 'loss_lvr': 2.411799430847168, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 714, 'epoch': 0.92}
+{'loss_total': 0.8519145250320435, 'loss_ce': 0.7062851786613464, 'loss_lvr': 1.4562933444976807, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 1916, 'epoch': 0.92}
+{'loss_total': 0.1803465187549591, 'loss_ce': 0.04547605291008949, 'loss_lvr': 1.3487046957015991, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 1912, 'epoch': 0.92}
+{'loss_total': 0.2184337079524994, 'loss_ce': 0.09932220727205276, 'loss_lvr': 1.191114902496338, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2220, 'epoch': 0.92}
+{'loss_total': 0.1745380163192749, 'loss_ce': 0.011579744517803192, 'loss_lvr': 1.6295826435089111, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 662, 'epoch': 0.92}
+{'loss_total': 0.3419301509857178, 'loss_ce': 0.17334657907485962, 'loss_lvr': 1.6858357191085815, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2120, 'epoch': 0.92}
+{'loss_total': 0.2670946419239044, 'loss_ce': 0.10089807957410812, 'loss_lvr': 1.6619657278060913, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2020, 'epoch': 0.92}
+{'loss_total': 0.17385780811309814, 'loss_ce': 0.015210922807455063, 'loss_lvr': 1.5864688158035278, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 1906, 'epoch': 0.92}
+{'loss_total': 0.20291419327259064, 'loss_ce': 0.026998218148946762, 'loss_lvr': 1.7591596841812134, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 668, 'epoch': 0.92}
+{'loss_total': 0.7413000464439392, 'loss_ce': 0.6110126376152039, 'loss_lvr': 1.302873969078064, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 596, 'epoch': 0.92}
+{'loss_total': 0.5314533710479736, 'loss_ce': 0.37579378485679626, 'loss_lvr': 1.5565955638885498, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 712, 'epoch': 0.92}
+{'loss_total': 0.7021408677101135, 'loss_ce': 0.5286586284637451, 'loss_lvr': 1.7348225116729736, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'loss': 0.4399, 'grad_norm': 3.2123241424560547, 'learning_rate': 1.7624090264294013e-07, 'epoch': 0.92}
+{'batch_size': 1, 'tokens_per_device': 5051, 'epoch': 0.92}
+{'loss_total': 0.17290057241916656, 'loss_ce': 0.031160568818449974, 'loss_lvr': 1.4174000024795532, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 710, 'epoch': 0.92}
+{'loss_total': 0.29179108142852783, 'loss_ce': 0.18730472028255463, 'loss_lvr': 1.0448634624481201, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 746, 'epoch': 0.92}
+{'loss_total': 0.9575793743133545, 'loss_ce': 0.8365659713745117, 'loss_lvr': 1.2101339101791382, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 1, 'tokens_per_device': 7756, 'epoch': 0.92}
+{'loss_total': 0.0778418481349945, 'loss_ce': 0.007636173628270626, 'loss_lvr': 0.7020567059516907, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2110, 'epoch': 0.92}
+{'loss_total': 0.4755655527114868, 'loss_ce': 0.350150465965271, 'loss_lvr': 1.254150629043579, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 1, 'tokens_per_device': 4539, 'epoch': 0.92}
+{'loss_total': 0.15166038274765015, 'loss_ce': 0.005651913583278656, 'loss_lvr': 1.4600846767425537, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2150, 'epoch': 0.92}
+{'loss_total': 0.19666926562786102, 'loss_ce': 0.06438799202442169, 'loss_lvr': 1.3228126764297485, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2632, 'epoch': 0.92}
+{'loss_total': 0.2689087986946106, 'loss_ce': 0.07697238773107529, 'loss_lvr': 1.919364094734192, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 1, 'tokens_per_device': 4530, 'epoch': 0.92}
+{'loss_total': 0.25475984811782837, 'loss_ce': 0.07308770716190338, 'loss_lvr': 1.8167214393615723, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 4604, 'epoch': 0.92}
+{'loss_total': 0.6207407712936401, 'loss_ce': 0.4202691316604614, 'loss_lvr': 2.004716157913208, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 664, 'epoch': 0.92}
+{'loss_total': 0.8980030417442322, 'loss_ce': 0.7093994617462158, 'loss_lvr': 1.886035680770874, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 1, 'tokens_per_device': 4771, 'epoch': 0.92}
+{'loss_total': 0.09173949807882309, 'loss_ce': 0.008323319256305695, 'loss_lvr': 0.8341617584228516, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2118, 'epoch': 0.92}
+{'loss_total': 0.8709014058113098, 'loss_ce': 0.7311026453971863, 'loss_lvr': 1.397987723350525, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 1892, 'epoch': 0.92}
+{'loss_total': 0.14019492268562317, 'loss_ce': 0.02474883198738098, 'loss_lvr': 1.1544609069824219, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 3046, 'epoch': 0.92}
+{'loss_total': 0.2100486010313034, 'loss_ce': 0.10809416323900223, 'loss_lvr': 1.0195443630218506, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 996, 'epoch': 0.92}
+{'loss_total': 0.9815436601638794, 'loss_ce': 0.8307691812515259, 'loss_lvr': 1.5077446699142456, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'loss': 0.3835, 'grad_norm': 3.5801119804382324, 'learning_rate': 1.7153706116892155e-07, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 710, 'epoch': 0.92}
+{'loss_total': 0.3104710578918457, 'loss_ce': 0.19475215673446655, 'loss_lvr': 1.157189130783081, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 1006, 'epoch': 0.92}
+{'loss_total': 0.20907342433929443, 'loss_ce': 0.09682151675224304, 'loss_lvr': 1.1225191354751587, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 1, 'tokens_per_device': 5353, 'epoch': 0.92}
+{'loss_total': 0.20885932445526123, 'loss_ce': 0.07406658679246902, 'loss_lvr': 1.347927451133728, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 656, 'epoch': 0.92}
+{'loss_total': 0.5115894079208374, 'loss_ce': 0.34560054540634155, 'loss_lvr': 1.6598886251449585, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 3640, 'epoch': 0.92}
+{'loss_total': 0.140153706073761, 'loss_ce': 0.045143261551856995, 'loss_lvr': 0.9501043558120728, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 586, 'epoch': 0.92}
+{'loss_total': 0.2262699007987976, 'loss_ce': 0.031067928299307823, 'loss_lvr': 1.9520198106765747, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2254, 'epoch': 0.92}
+{'loss_total': 0.3919726014137268, 'loss_ce': 0.1701756864786148, 'loss_lvr': 2.2179689407348633, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 5012, 'epoch': 0.92}
+{'loss_total': 0.23928633332252502, 'loss_ce': 0.1530866026878357, 'loss_lvr': 0.8619973659515381, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 1942, 'epoch': 0.92}
+{'loss_total': 0.5376923680305481, 'loss_ce': 0.3678017258644104, 'loss_lvr': 1.6989065408706665, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 640, 'epoch': 0.92}
+{'loss_total': 0.19266292452812195, 'loss_ce': 0.06121288239955902, 'loss_lvr': 1.3145004510879517, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 3502, 'epoch': 0.92}
+{'loss_total': 0.35989946126937866, 'loss_ce': 0.2531055510044098, 'loss_lvr': 1.067939043045044, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 708, 'epoch': 0.92}
+{'loss_total': 0.28708264231681824, 'loss_ce': 0.14642469584941864, 'loss_lvr': 1.4065794944763184, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 598, 'epoch': 0.92}
+{'loss_total': 0.25059834122657776, 'loss_ce': 0.029316328465938568, 'loss_lvr': 2.212820053100586, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 942, 'epoch': 0.92}
+{'loss_total': 0.3671521842479706, 'loss_ce': 0.20397423207759857, 'loss_lvr': 1.631779432296753, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 1, 'tokens_per_device': 4990, 'epoch': 0.92}
+{'loss_total': 0.2011696845293045, 'loss_ce': 0.15322290360927582, 'loss_lvr': 0.47946780920028687, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 660, 'epoch': 0.92}
+{'loss_total': 0.4111790657043457, 'loss_ce': 0.25258520245552063, 'loss_lvr': 1.5859384536743164, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'loss': 0.3491, 'grad_norm': 2.674405336380005, 'learning_rate': 1.6689574843694433e-07, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 658, 'epoch': 0.92}
+{'loss_total': 0.48409509658813477, 'loss_ce': 0.2075665295124054, 'loss_lvr': 2.7652854919433594, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 1, 'tokens_per_device': 5127, 'epoch': 0.92}
+{'loss_total': 0.33594346046447754, 'loss_ce': 0.2727698087692261, 'loss_lvr': 0.6317363381385803, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 604, 'epoch': 0.92}
+{'loss_total': 0.467909574508667, 'loss_ce': 0.22819258272647858, 'loss_lvr': 2.397169828414917, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 1906, 'epoch': 0.92}
+{'loss_total': 0.6335744261741638, 'loss_ce': 0.4431472420692444, 'loss_lvr': 1.9042717218399048, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 682, 'epoch': 0.92}
+{'loss_total': 0.7952882647514343, 'loss_ce': 0.6454744338989258, 'loss_lvr': 1.4981380701065063, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2304, 'epoch': 0.92}
+{'loss_total': 0.2989623546600342, 'loss_ce': 0.1356271654367447, 'loss_lvr': 1.6333516836166382, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2818, 'epoch': 0.92}
+{'loss_total': 0.4126795530319214, 'loss_ce': 0.32276150584220886, 'loss_lvr': 0.8991802930831909, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 1700, 'epoch': 0.92}
+{'loss_total': 0.3278791308403015, 'loss_ce': 0.1726229041814804, 'loss_lvr': 1.5525623559951782, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2096, 'epoch': 0.92}
+{'loss_total': 0.8629218935966492, 'loss_ce': 0.7512528300285339, 'loss_lvr': 1.1166906356811523, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2122, 'epoch': 0.92}
+{'loss_total': 0.9641307592391968, 'loss_ce': 0.827538788318634, 'loss_lvr': 1.3659194707870483, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 3826, 'epoch': 0.92}
+{'loss_total': 0.18680360913276672, 'loss_ce': 0.04605492949485779, 'loss_lvr': 1.4074867963790894, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2086, 'epoch': 0.92}
+{'loss_total': 0.28975334763526917, 'loss_ce': 0.06980200856924057, 'loss_lvr': 2.1995134353637695, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 696, 'epoch': 0.92}
+{'loss_total': 0.6478159427642822, 'loss_ce': 0.46164897084236145, 'loss_lvr': 1.861669898033142, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 1, 'tokens_per_device': 4927, 'epoch': 0.92}
+{'loss_total': 0.12698772549629211, 'loss_ce': 0.058715686202049255, 'loss_lvr': 0.682720422744751, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 738, 'epoch': 0.92}
+{'loss_total': 0.20725120604038239, 'loss_ce': 0.04114392772316933, 'loss_lvr': 1.6610727310180664, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 612, 'epoch': 0.92}
+{'loss_total': 0.38381344079971313, 'loss_ce': 0.15647177398204803, 'loss_lvr': 2.273416519165039, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'loss': 0.4366, 'grad_norm': 3.0405824184417725, 'learning_rate': 1.6231702455215104e-07, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 1858, 'epoch': 0.92}
+{'loss_total': 0.32922160625457764, 'loss_ce': 0.2135513871908188, 'loss_lvr': 1.1567022800445557, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 656, 'epoch': 0.92}
+{'loss_total': 0.3263384699821472, 'loss_ce': 0.15868636965751648, 'loss_lvr': 1.6765211820602417, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 678, 'epoch': 0.92}
+{'loss_total': 0.6839176416397095, 'loss_ce': 0.5390779376029968, 'loss_lvr': 1.4483968019485474, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 1, 'tokens_per_device': 4866, 'epoch': 0.92}
+{'loss_total': 0.16245846450328827, 'loss_ce': 0.084211066365242, 'loss_lvr': 0.7824739813804626, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 710, 'epoch': 0.92}
+{'loss_total': 1.0658215284347534, 'loss_ce': 0.91724693775177, 'loss_lvr': 1.4857456684112549, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 1412, 'epoch': 0.92}
+{'loss_total': 0.20905612409114838, 'loss_ce': 0.03668326139450073, 'loss_lvr': 1.7237285375595093, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 828, 'epoch': 0.92}
+{'loss_total': 0.17237384617328644, 'loss_ce': 0.029640818014740944, 'loss_lvr': 1.4273302555084229, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 588, 'epoch': 0.92}
+{'loss_total': 0.44521915912628174, 'loss_ce': 0.2154737412929535, 'loss_lvr': 2.2974541187286377, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2130, 'epoch': 0.92}
+{'loss_total': 0.9305366277694702, 'loss_ce': 0.715067982673645, 'loss_lvr': 2.154686689376831, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2294, 'epoch': 0.92}
+{'loss_total': 0.2400418072938919, 'loss_ce': 0.12190753221511841, 'loss_lvr': 1.1813427209854126, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 4710, 'epoch': 0.92}
+{'loss_total': 0.41984859108924866, 'loss_ce': 0.33953315019607544, 'loss_lvr': 0.803154468536377, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 1, 'tokens_per_device': 4826, 'epoch': 0.92}
+{'loss_total': 0.13334167003631592, 'loss_ce': 0.07445710897445679, 'loss_lvr': 0.5888456106185913, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2104, 'epoch': 0.92}
+{'loss_total': 0.27109211683273315, 'loss_ce': 0.0695982351899147, 'loss_lvr': 2.0149388313293457, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 634, 'epoch': 0.92}
+{'loss_total': 0.42796748876571655, 'loss_ce': 0.3038630783557892, 'loss_lvr': 1.2410441637039185, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 1, 'tokens_per_device': 4878, 'epoch': 0.92}
+{'loss_total': 0.22763365507125854, 'loss_ce': 0.13920512795448303, 'loss_lvr': 0.8842851519584656, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 1, 'tokens_per_device': 5046, 'epoch': 0.92}
+{'loss_total': 0.058544084429740906, 'loss_ce': 0.009070652537047863, 'loss_lvr': 0.4947343170642853, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'loss': 0.3539, 'grad_norm': 3.147296667098999, 'learning_rate': 1.5780094880915365e-07, 'epoch': 0.92}
+{'batch_size': 1, 'tokens_per_device': 4922, 'epoch': 0.92}
+{'loss_total': 0.2135179340839386, 'loss_ce': 0.16907215118408203, 'loss_lvr': 0.44445788860321045, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2764, 'epoch': 0.92}
+{'loss_total': 0.7545732259750366, 'loss_ce': 0.591002881526947, 'loss_lvr': 1.6357033252716064, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2672, 'epoch': 0.92}
+{'loss_total': 0.15729659795761108, 'loss_ce': 0.02654050476849079, 'loss_lvr': 1.307560920715332, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 692, 'epoch': 0.92}
+{'loss_total': 1.2104382514953613, 'loss_ce': 1.0249813795089722, 'loss_lvr': 1.8545688390731812, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2166, 'epoch': 0.92}
+{'loss_total': 0.27519023418426514, 'loss_ce': 0.12421742081642151, 'loss_lvr': 1.5097280740737915, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 774, 'epoch': 0.92}
+{'loss_total': 0.6438429355621338, 'loss_ce': 0.44349372386932373, 'loss_lvr': 2.0034923553466797, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2060, 'epoch': 0.92}
+{'loss_total': 0.8358094692230225, 'loss_ce': 0.7055807113647461, 'loss_lvr': 1.3022876977920532, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2236, 'epoch': 0.92}
+{'loss_total': 0.2859651446342468, 'loss_ce': 0.1553141474723816, 'loss_lvr': 1.306510090827942, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2364, 'epoch': 0.92}
+{'loss_total': 0.4584561586380005, 'loss_ce': 0.3275074362754822, 'loss_lvr': 1.309486985206604, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 694, 'epoch': 0.92}
+{'loss_total': 0.4024089574813843, 'loss_ce': 0.2606688141822815, 'loss_lvr': 1.4174013137817383, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 1316, 'epoch': 0.92}
+{'loss_total': 0.5684535503387451, 'loss_ce': 0.362435519695282, 'loss_lvr': 2.0601799488067627, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 680, 'epoch': 0.92}
+{'loss_total': 0.2662864029407501, 'loss_ce': 0.03747640550136566, 'loss_lvr': 2.288100004196167, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2584, 'epoch': 0.92}
+{'loss_total': 0.24229887127876282, 'loss_ce': 0.04552271217107773, 'loss_lvr': 1.9677616357803345, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 1882, 'epoch': 0.92}
+{'loss_total': 0.17776452004909515, 'loss_ce': 0.05626824125647545, 'loss_lvr': 1.2149627208709717, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 714, 'epoch': 0.92}
+{'loss_total': 0.22395747900009155, 'loss_ce': 0.0925535336136818, 'loss_lvr': 1.3140393495559692, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 710, 'epoch': 0.92}
+{'loss_total': 0.7557740211486816, 'loss_ce': 0.6275933980941772, 'loss_lvr': 1.281806468963623, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'loss': 0.3803, 'grad_norm': 2.666513204574585, 'learning_rate': 1.5334757969127202e-07, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 686, 'epoch': 0.92}
+{'loss_total': 0.820227324962616, 'loss_ce': 0.6684905886650085, 'loss_lvr': 1.5173672437667847, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 784, 'epoch': 0.92}
+{'loss_total': 0.7837270498275757, 'loss_ce': 0.6855171322822571, 'loss_lvr': 0.9820988774299622, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 1888, 'epoch': 0.92}
+{'loss_total': 0.4726257026195526, 'loss_ce': 0.14811500906944275, 'loss_lvr': 3.2451069355010986, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2124, 'epoch': 0.92}
+{'loss_total': 0.4956645965576172, 'loss_ce': 0.3153773844242096, 'loss_lvr': 1.8028720617294312, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2040, 'epoch': 0.92}
+{'loss_total': 0.1864706426858902, 'loss_ce': 0.05924996733665466, 'loss_lvr': 1.2722067832946777, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2400, 'epoch': 0.92}
+{'loss_total': 0.19570793211460114, 'loss_ce': 0.08496300131082535, 'loss_lvr': 1.1074492931365967, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 1, 'tokens_per_device': 4688, 'epoch': 0.92}
+{'loss_total': 0.7409136891365051, 'loss_ce': 0.6311628818511963, 'loss_lvr': 1.0975079536437988, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 1322, 'epoch': 0.92}
+{'loss_total': 0.21762189269065857, 'loss_ce': 0.043225329369306564, 'loss_lvr': 1.7439656257629395, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2102, 'epoch': 0.92}
+{'loss_total': 0.3969288766384125, 'loss_ce': 0.21086500585079193, 'loss_lvr': 1.8606387376785278, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2210, 'epoch': 0.92}
+{'loss_total': 0.3231915831565857, 'loss_ce': 0.16071398556232452, 'loss_lvr': 1.6247758865356445, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 1, 'tokens_per_device': 4883, 'epoch': 0.92}
+{'loss_total': 0.12256568670272827, 'loss_ce': 0.0378001406788826, 'loss_lvr': 0.8476554155349731, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 642, 'epoch': 0.92}
+{'loss_total': 0.3187965750694275, 'loss_ce': 0.20218007266521454, 'loss_lvr': 1.1661648750305176, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2768, 'epoch': 0.92}
+{'loss_total': 0.26289352774620056, 'loss_ce': 0.07501976191997528, 'loss_lvr': 1.8787375688552856, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 1, 'tokens_per_device': 4602, 'epoch': 0.92}
+{'loss_total': 0.18320120871067047, 'loss_ce': 0.015171041712164879, 'loss_lvr': 1.6803016662597656, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 614, 'epoch': 0.92}
+{'loss_total': 0.46534812450408936, 'loss_ce': 0.2817138135433197, 'loss_lvr': 1.8363432884216309, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 536, 'epoch': 0.92}
+{'loss_total': 0.5677425861358643, 'loss_ce': 0.2903395891189575, 'loss_lvr': 2.7740297317504883, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'loss': 0.3905, 'grad_norm': 2.9142439365386963, 'learning_rate': 1.489569748697711e-07, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2330, 'epoch': 0.92}
+{'loss_total': 0.4383167028427124, 'loss_ce': 0.27338337898254395, 'loss_lvr': 1.649333119392395, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 3630, 'epoch': 0.92}
+{'loss_total': 0.1932574212551117, 'loss_ce': 0.013356930576264858, 'loss_lvr': 1.7990049123764038, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 626, 'epoch': 0.92}
+{'loss_total': 0.38792723417282104, 'loss_ce': 0.20435817539691925, 'loss_lvr': 1.8356907367706299, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 1884, 'epoch': 0.92}
+{'loss_total': 0.27802765369415283, 'loss_ce': 0.11966552585363388, 'loss_lvr': 1.5836212635040283, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 880, 'epoch': 0.92}
+{'loss_total': 0.7811283469200134, 'loss_ce': 0.6484172940254211, 'loss_lvr': 1.3271102905273438, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 532, 'epoch': 0.92}
+{'loss_total': 0.5071048736572266, 'loss_ce': 0.35594436526298523, 'loss_lvr': 1.511605143547058, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 1, 'tokens_per_device': 5562, 'epoch': 0.92}
+{'loss_total': 0.1362880915403366, 'loss_ce': 0.011580475606024265, 'loss_lvr': 1.247076153755188, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 800, 'epoch': 0.92}
+{'loss_total': 0.2131444215774536, 'loss_ce': 0.09402305632829666, 'loss_lvr': 1.191213607788086, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 1966, 'epoch': 0.92}
+{'loss_total': 0.3371885418891907, 'loss_ce': 0.24679169058799744, 'loss_lvr': 0.9039683938026428, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 746, 'epoch': 0.92}
+{'loss_total': 0.8381121754646301, 'loss_ce': 0.6828216910362244, 'loss_lvr': 1.5529048442840576, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2188, 'epoch': 0.92}
+{'loss_total': 0.22852374613285065, 'loss_ce': 0.056940559297800064, 'loss_lvr': 1.7158318758010864, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 1886, 'epoch': 0.92}
+{'loss_total': 0.3376714885234833, 'loss_ce': 0.08782010525465012, 'loss_lvr': 2.498513698577881, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 2574, 'epoch': 0.92}
+{'loss_total': 0.15845593810081482, 'loss_ce': 0.03912004828453064, 'loss_lvr': 1.1933588981628418, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 1, 'tokens_per_device': 7318, 'epoch': 0.92}
+{'loss_total': 0.10350768268108368, 'loss_ce': 0.019780132919549942, 'loss_lvr': 0.837275505065918, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 4350, 'epoch': 0.92}
+{'loss_total': 0.36315691471099854, 'loss_ce': 0.2941308617591858, 'loss_lvr': 0.6902604699134827, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'batch_size': 2, 'tokens_per_device': 6518, 'epoch': 0.92}
+{'loss_total': 0.20625606179237366, 'loss_ce': 0.09886927157640457, 'loss_lvr': 1.0738677978515625, 'loss_mode_switch': 0.0, 'epoch': 0.92}
+{'loss': 0.3748, 'grad_norm': 2.961784839630127, 'learning_rate': 1.446291912031167e-07, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2228, 'epoch': 0.93}
+{'loss_total': 0.42991578578948975, 'loss_ce': 0.3112894594669342, 'loss_lvr': 1.1862633228302002, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 594, 'epoch': 0.93}
+{'loss_total': 0.2363489866256714, 'loss_ce': 0.08803929388523102, 'loss_lvr': 1.483096957206726, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 624, 'epoch': 0.93}
+{'loss_total': 0.45104947686195374, 'loss_ce': 0.22225956618785858, 'loss_lvr': 2.2878990173339844, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 4897, 'epoch': 0.93}
+{'loss_total': 0.1227107122540474, 'loss_ce': 0.01597135327756405, 'loss_lvr': 1.0673935413360596, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2130, 'epoch': 0.93}
+{'loss_total': 0.45438018441200256, 'loss_ce': 0.2562728822231293, 'loss_lvr': 1.981073021888733, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2418, 'epoch': 0.93}
+{'loss_total': 0.5307625532150269, 'loss_ce': 0.42802998423576355, 'loss_lvr': 1.0273258686065674, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2154, 'epoch': 0.93}
+{'loss_total': 0.4427686929702759, 'loss_ce': 0.29995641112327576, 'loss_lvr': 1.4281229972839355, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 1876, 'epoch': 0.93}
+{'loss_total': 0.6418956518173218, 'loss_ce': 0.47100186347961426, 'loss_lvr': 1.7089381217956543, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2590, 'epoch': 0.93}
+{'loss_total': 0.45174920558929443, 'loss_ce': 0.320308655500412, 'loss_lvr': 1.3144056797027588, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 822, 'epoch': 0.93}
+{'loss_total': 0.2289222776889801, 'loss_ce': 0.08327693492174149, 'loss_lvr': 1.4564534425735474, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2230, 'epoch': 0.93}
+{'loss_total': 0.9589115381240845, 'loss_ce': 0.818433940410614, 'loss_lvr': 1.4047757387161255, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 4787, 'epoch': 0.93}
+{'loss_total': 2.4571452140808105, 'loss_ce': 2.4170291423797607, 'loss_lvr': 0.40116086602211, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2032, 'epoch': 0.93}
+{'loss_total': 0.14404577016830444, 'loss_ce': 0.05317924916744232, 'loss_lvr': 0.9086652994155884, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 714, 'epoch': 0.93}
+{'loss_total': 0.2412138134241104, 'loss_ce': 0.11523182690143585, 'loss_lvr': 1.2598198652267456, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2416, 'epoch': 0.93}
+{'loss_total': 0.12245343625545502, 'loss_ce': 0.008819193579256535, 'loss_lvr': 1.1363424062728882, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 660, 'epoch': 0.93}
+{'loss_total': 0.21762007474899292, 'loss_ce': 0.05206338316202164, 'loss_lvr': 1.655566930770874, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'loss': 0.3978, 'grad_norm': 2.9932219982147217, 'learning_rate': 1.403642847362402e-07, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 4819, 'epoch': 0.93}
+{'loss_total': 0.14180941879749298, 'loss_ce': 0.04221488907933235, 'loss_lvr': 0.9959453344345093, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 5113, 'epoch': 0.93}
+{'loss_total': 0.29188257455825806, 'loss_ce': 0.19610942900180817, 'loss_lvr': 0.9577314257621765, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 1924, 'epoch': 0.93}
+{'loss_total': 0.46094709634780884, 'loss_ce': 0.35436126589775085, 'loss_lvr': 1.0658583641052246, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2838, 'epoch': 0.93}
+{'loss_total': 0.11690303683280945, 'loss_ce': 0.024788346141576767, 'loss_lvr': 0.9211468696594238, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 840, 'epoch': 0.93}
+{'loss_total': 0.45242857933044434, 'loss_ce': 0.3074176609516144, 'loss_lvr': 1.4501090049743652, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 4839, 'epoch': 0.93}
+{'loss_total': 0.3280632197856903, 'loss_ce': 0.16779227554798126, 'loss_lvr': 1.602709412574768, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 708, 'epoch': 0.93}
+{'loss_total': 0.7422695755958557, 'loss_ce': 0.6023327708244324, 'loss_lvr': 1.399368166923523, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 612, 'epoch': 0.93}
+{'loss_total': 0.9664586186408997, 'loss_ce': 0.7815695405006409, 'loss_lvr': 1.8488905429840088, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2140, 'epoch': 0.93}
+{'loss_total': 0.18508395552635193, 'loss_ce': 0.04101276025176048, 'loss_lvr': 1.4407118558883667, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 680, 'epoch': 0.93}
+{'loss_total': 0.7661348581314087, 'loss_ce': 0.6520421504974365, 'loss_lvr': 1.1409270763397217, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 802, 'epoch': 0.93}
+{'loss_total': 0.2873973250389099, 'loss_ce': 0.16768410801887512, 'loss_lvr': 1.1971319913864136, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 578, 'epoch': 0.93}
+{'loss_total': 0.355219304561615, 'loss_ce': 0.13614951074123383, 'loss_lvr': 2.1906979084014893, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 1916, 'epoch': 0.93}
+{'loss_total': 0.33211344480514526, 'loss_ce': 0.19220423698425293, 'loss_lvr': 1.399092197418213, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 1014, 'epoch': 0.93}
+{'loss_total': 0.1719571202993393, 'loss_ce': 0.055645652115345, 'loss_lvr': 1.1631146669387817, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2654, 'epoch': 0.93}
+{'loss_total': 0.2587694227695465, 'loss_ce': 0.0804905816912651, 'loss_lvr': 1.7827883958816528, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2278, 'epoch': 0.93}
+{'loss_total': 0.40947484970092773, 'loss_ce': 0.27961188554763794, 'loss_lvr': 1.2986294031143188, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'loss': 0.4032, 'grad_norm': 2.9321751594543457, 'learning_rate': 1.361623106998089e-07, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 4353, 'epoch': 0.93}
+{'loss_total': 0.43867114186286926, 'loss_ce': 0.2772456109523773, 'loss_lvr': 1.6142553091049194, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 590, 'epoch': 0.93}
+{'loss_total': 0.3586007356643677, 'loss_ce': 0.19059044122695923, 'loss_lvr': 1.6801027059555054, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 620, 'epoch': 0.93}
+{'loss_total': 0.6436533331871033, 'loss_ce': 0.47085854411125183, 'loss_lvr': 1.7279478311538696, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 644, 'epoch': 0.93}
+{'loss_total': 0.7923344969749451, 'loss_ce': 0.5692423582077026, 'loss_lvr': 2.2309212684631348, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 4814, 'epoch': 0.93}
+{'loss_total': 0.1303127110004425, 'loss_ce': 0.054791372269392014, 'loss_lvr': 0.7552133798599243, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 5149, 'epoch': 0.93}
+{'loss_total': 0.13903246819972992, 'loss_ce': 0.09973808377981186, 'loss_lvr': 0.3929438292980194, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 1910, 'epoch': 0.93}
+{'loss_total': 0.13267852365970612, 'loss_ce': 0.012982933782041073, 'loss_lvr': 1.196955919265747, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 4928, 'epoch': 0.93}
+{'loss_total': 0.17107579112052917, 'loss_ce': 0.07274980843067169, 'loss_lvr': 0.9832597374916077, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 660, 'epoch': 0.93}
+{'loss_total': 0.17431870102882385, 'loss_ce': 0.04378420114517212, 'loss_lvr': 1.3053449392318726, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 1650, 'epoch': 0.93}
+{'loss_total': 0.3560411036014557, 'loss_ce': 0.22580435872077942, 'loss_lvr': 1.3023674488067627, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2144, 'epoch': 0.93}
+{'loss_total': 0.18211239576339722, 'loss_ce': 0.03273262828588486, 'loss_lvr': 1.493797779083252, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 830, 'epoch': 0.93}
+{'loss_total': 0.6892452239990234, 'loss_ce': 0.5628508925437927, 'loss_lvr': 1.2639434337615967, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 3262, 'epoch': 0.93}
+{'loss_total': 0.22829154133796692, 'loss_ce': 0.1353769451379776, 'loss_lvr': 0.9291460514068604, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 4610, 'epoch': 0.93}
+{'loss_total': 0.22235414385795593, 'loss_ce': 0.10752163827419281, 'loss_lvr': 1.148324966430664, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2936, 'epoch': 0.93}
+{'loss_total': 0.15811243653297424, 'loss_ce': 0.025196246802806854, 'loss_lvr': 1.3291617631912231, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2102, 'epoch': 0.93}
+{'loss_total': 0.143673375248909, 'loss_ce': 0.027576658874750137, 'loss_lvr': 1.1609671115875244, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'loss': 0.4173, 'grad_norm': 2.8942654132843018, 'learning_rate': 1.3202332350951586e-07, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2194, 'epoch': 0.93}
+{'loss_total': 0.25229594111442566, 'loss_ce': 0.15083074569702148, 'loss_lvr': 1.014651894569397, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 1378, 'epoch': 0.93}
+{'loss_total': 0.13665494322776794, 'loss_ce': 0.0049510826356709, 'loss_lvr': 1.3170385360717773, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 600, 'epoch': 0.93}
+{'loss_total': 0.25600728392601013, 'loss_ce': 0.06021594628691673, 'loss_lvr': 1.9579135179519653, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 938, 'epoch': 0.93}
+{'loss_total': 0.40334397554397583, 'loss_ce': 0.16714303195476532, 'loss_lvr': 2.3620095252990723, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 5010, 'epoch': 0.93}
+{'loss_total': 0.2357633411884308, 'loss_ce': 0.020472340285778046, 'loss_lvr': 2.152909994125366, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 672, 'epoch': 0.93}
+{'loss_total': 0.5087224245071411, 'loss_ce': 0.3662737011909485, 'loss_lvr': 1.4244873523712158, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 752, 'epoch': 0.93}
+{'loss_total': 0.3350406885147095, 'loss_ce': 0.06270073354244232, 'loss_lvr': 2.7233996391296387, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 5054, 'epoch': 0.93}
+{'loss_total': 0.40711522102355957, 'loss_ce': 0.30137866735458374, 'loss_lvr': 1.0573656558990479, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 724, 'epoch': 0.93}
+{'loss_total': 0.24994732439517975, 'loss_ce': 0.016030821949243546, 'loss_lvr': 2.339164972305298, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 624, 'epoch': 0.93}
+{'loss_total': 0.876834511756897, 'loss_ce': 0.7326496243476868, 'loss_lvr': 1.4418491125106812, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 5015, 'epoch': 0.93}
+{'loss_total': 0.6668407917022705, 'loss_ce': 0.6189796328544617, 'loss_lvr': 0.4786117374897003, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 4887, 'epoch': 0.93}
+{'loss_total': 0.06710900366306305, 'loss_ce': 0.02156754583120346, 'loss_lvr': 0.4554145336151123, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 618, 'epoch': 0.93}
+{'loss_total': 0.2114638388156891, 'loss_ce': 0.06384917348623276, 'loss_lvr': 1.4761466979980469, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2048, 'epoch': 0.93}
+{'loss_total': 0.12371211498975754, 'loss_ce': 0.02835744433104992, 'loss_lvr': 0.9535466432571411, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 1920, 'epoch': 0.93}
+{'loss_total': 0.3398405909538269, 'loss_ce': 0.06286709755659103, 'loss_lvr': 2.7697348594665527, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2918, 'epoch': 0.93}
+{'loss_total': 0.17141076922416687, 'loss_ce': 0.04548201709985733, 'loss_lvr': 1.2592875957489014, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'loss': 0.3871, 'grad_norm': 2.8107831478118896, 'learning_rate': 1.2794737676536993e-07, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 700, 'epoch': 0.93}
+{'loss_total': 0.6882785558700562, 'loss_ce': 0.5580620765686035, 'loss_lvr': 1.3021650314331055, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 536, 'epoch': 0.93}
+{'loss_total': 0.6159972548484802, 'loss_ce': 0.38390955328941345, 'loss_lvr': 2.3208770751953125, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 656, 'epoch': 0.93}
+{'loss_total': 0.21499067544937134, 'loss_ce': 0.08591600507497787, 'loss_lvr': 1.2907466888427734, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 1890, 'epoch': 0.93}
+{'loss_total': 0.5836933851242065, 'loss_ce': 0.4540771543979645, 'loss_lvr': 1.2961623668670654, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 4918, 'epoch': 0.93}
+{'loss_total': 0.5044729709625244, 'loss_ce': 0.4062317907810211, 'loss_lvr': 0.9824119806289673, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2690, 'epoch': 0.93}
+{'loss_total': 0.2109382450580597, 'loss_ce': 0.09801068156957626, 'loss_lvr': 1.1292755603790283, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 4226, 'epoch': 0.93}
+{'loss_total': 0.9431012272834778, 'loss_ce': 0.8297345042228699, 'loss_lvr': 1.133667230606079, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 648, 'epoch': 0.93}
+{'loss_total': 0.553803563117981, 'loss_ce': 0.42335712909698486, 'loss_lvr': 1.3044642210006714, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 574, 'epoch': 0.93}
+{'loss_total': 0.275128573179245, 'loss_ce': 0.1354641169309616, 'loss_lvr': 1.3966445922851562, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2490, 'epoch': 0.93}
+{'loss_total': 0.4309702217578888, 'loss_ce': 0.17012783885002136, 'loss_lvr': 2.6084237098693848, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 5105, 'epoch': 0.93}
+{'loss_total': 0.23322726786136627, 'loss_ce': 0.10742287337779999, 'loss_lvr': 1.258043885231018, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 5154, 'epoch': 0.93}
+{'loss_total': 0.22886359691619873, 'loss_ce': 0.014162320643663406, 'loss_lvr': 2.147012710571289, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 594, 'epoch': 0.93}
+{'loss_total': 0.6226090788841248, 'loss_ce': 0.47519737482070923, 'loss_lvr': 1.4741168022155762, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2144, 'epoch': 0.93}
+{'loss_total': 0.7458126544952393, 'loss_ce': 0.6587323546409607, 'loss_lvr': 0.8708032965660095, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 642, 'epoch': 0.93}
+{'loss_total': 0.651409387588501, 'loss_ce': 0.5219485759735107, 'loss_lvr': 1.294608235359192, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 818, 'epoch': 0.93}
+{'loss_total': 0.249647319316864, 'loss_ce': 0.12258626520633698, 'loss_lvr': 1.2706105709075928, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'loss': 0.4255, 'grad_norm': 3.144010305404663, 'learning_rate': 1.2393452325100585e-07, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 704, 'epoch': 0.93}
+{'loss_total': 0.15628167986869812, 'loss_ce': 0.051626939326524734, 'loss_lvr': 1.0465474128723145, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2172, 'epoch': 0.93}
+{'loss_total': 1.0320005416870117, 'loss_ce': 0.8564368486404419, 'loss_lvr': 1.7556371688842773, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 1894, 'epoch': 0.93}
+{'loss_total': 0.2652778923511505, 'loss_ce': 0.031680893152952194, 'loss_lvr': 2.335969924926758, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 4801, 'epoch': 0.93}
+{'loss_total': 0.1674565076828003, 'loss_ce': 0.01662532240152359, 'loss_lvr': 1.5083118677139282, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 638, 'epoch': 0.93}
+{'loss_total': 0.45983070135116577, 'loss_ce': 0.30446064472198486, 'loss_lvr': 1.5537006855010986, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 654, 'epoch': 0.93}
+{'loss_total': 0.6811219453811646, 'loss_ce': 0.5670399069786072, 'loss_lvr': 1.1408203840255737, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 5338, 'epoch': 0.93}
+{'loss_total': 0.3451187312602997, 'loss_ce': 0.15574073791503906, 'loss_lvr': 1.8937798738479614, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 742, 'epoch': 0.93}
+{'loss_total': 0.35978543758392334, 'loss_ce': 0.13510268926620483, 'loss_lvr': 2.2468273639678955, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 1678, 'epoch': 0.93}
+{'loss_total': 0.514339804649353, 'loss_ce': 0.23998954892158508, 'loss_lvr': 2.743502378463745, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2360, 'epoch': 0.93}
+{'loss_total': 0.22574913501739502, 'loss_ce': 0.12877854704856873, 'loss_lvr': 0.9697059392929077, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 4896, 'epoch': 0.93}
+{'loss_total': 0.2925856113433838, 'loss_ce': 0.18282142281532288, 'loss_lvr': 1.0976417064666748, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 620, 'epoch': 0.93}
+{'loss_total': 0.4024540185928345, 'loss_ce': 0.23066838085651398, 'loss_lvr': 1.7178561687469482, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 5196, 'epoch': 0.93}
+{'loss_total': 0.2090846598148346, 'loss_ce': 0.11991841346025467, 'loss_lvr': 0.8916624188423157, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 656, 'epoch': 0.93}
+{'loss_total': 0.25834155082702637, 'loss_ce': 0.1469499170780182, 'loss_lvr': 1.1139163970947266, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 638, 'epoch': 0.93}
+{'loss_total': 0.4899929165840149, 'loss_ce': 0.30965951085090637, 'loss_lvr': 1.8033338785171509, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 1916, 'epoch': 0.93}
+{'loss_total': 0.16360226273536682, 'loss_ce': 0.04735078662633896, 'loss_lvr': 1.1625146865844727, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'loss': 0.412, 'grad_norm': 2.7996771335601807, 'learning_rate': 1.1998481493299907e-07, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 632, 'epoch': 0.93}
+{'loss_total': 0.3752565383911133, 'loss_ce': 0.24531567096710205, 'loss_lvr': 1.2994086742401123, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 686, 'epoch': 0.93}
+{'loss_total': 0.3796219527721405, 'loss_ce': 0.015012732706964016, 'loss_lvr': 3.646092176437378, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 5083, 'epoch': 0.93}
+{'loss_total': 0.2506341338157654, 'loss_ce': 0.10850691795349121, 'loss_lvr': 1.4212719202041626, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 4943, 'epoch': 0.93}
+{'loss_total': 0.5126153230667114, 'loss_ce': 0.41015616059303284, 'loss_lvr': 1.0245919227600098, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2350, 'epoch': 0.93}
+{'loss_total': 0.2442522794008255, 'loss_ce': 0.08988712728023529, 'loss_lvr': 1.5436514616012573, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 5136, 'epoch': 0.93}
+{'loss_total': 0.11562193930149078, 'loss_ce': 0.04807024076581001, 'loss_lvr': 0.6755169630050659, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 616, 'epoch': 0.93}
+{'loss_total': 0.26308274269104004, 'loss_ce': 0.12247435003519058, 'loss_lvr': 1.4060838222503662, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2268, 'epoch': 0.93}
+{'loss_total': 0.3886178135871887, 'loss_ce': 0.28662678599357605, 'loss_lvr': 1.0199100971221924, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 662, 'epoch': 0.93}
+{'loss_total': 0.4883475601673126, 'loss_ce': 0.36719298362731934, 'loss_lvr': 1.211545705795288, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 610, 'epoch': 0.93}
+{'loss_total': 0.5443267226219177, 'loss_ce': 0.29600581526756287, 'loss_lvr': 2.4832091331481934, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2120, 'epoch': 0.93}
+{'loss_total': 0.2119441032409668, 'loss_ce': 0.0910593643784523, 'loss_lvr': 1.2088474035263062, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 586, 'epoch': 0.93}
+{'loss_total': 0.6681463718414307, 'loss_ce': 0.38099679350852966, 'loss_lvr': 2.871495485305786, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2118, 'epoch': 0.93}
+{'loss_total': 0.2163681834936142, 'loss_ce': 0.03648221120238304, 'loss_lvr': 1.798859715461731, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 5051, 'epoch': 0.93}
+{'loss_total': 0.6135008335113525, 'loss_ce': 0.5296685099601746, 'loss_lvr': 0.8383235335350037, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 670, 'epoch': 0.93}
+{'loss_total': 0.5975509881973267, 'loss_ce': 0.47420766949653625, 'loss_lvr': 1.2334332466125488, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 644, 'epoch': 0.93}
+{'loss_total': 0.9273149967193604, 'loss_ce': 0.7668799161911011, 'loss_lvr': 1.6043506860733032, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'loss': 0.43, 'grad_norm': 3.4512388706207275, 'learning_rate': 1.1609830296019142e-07, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2596, 'epoch': 0.93}
+{'loss_total': 0.29421788454055786, 'loss_ce': 0.1680164337158203, 'loss_lvr': 1.2620142698287964, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 4863, 'epoch': 0.93}
+{'loss_total': 0.06026393547654152, 'loss_ce': 0.019596964120864868, 'loss_lvr': 0.4066697061061859, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 914, 'epoch': 0.93}
+{'loss_total': 0.7901664972305298, 'loss_ce': 0.653657853603363, 'loss_lvr': 1.365086317062378, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 630, 'epoch': 0.93}
+{'loss_total': 0.5549832582473755, 'loss_ce': 0.421366810798645, 'loss_lvr': 1.3361643552780151, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 5106, 'epoch': 0.93}
+{'loss_total': 0.10915489494800568, 'loss_ce': 0.014501990750432014, 'loss_lvr': 0.9465290307998657, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 4891, 'epoch': 0.93}
+{'loss_total': 0.2233969271183014, 'loss_ce': 0.10609352588653564, 'loss_lvr': 1.1730340719223022, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2870, 'epoch': 0.93}
+{'loss_total': 0.3522321283817291, 'loss_ce': 0.2564708888530731, 'loss_lvr': 0.9576122760772705, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 2470, 'epoch': 0.93}
+{'loss_total': 0.20812180638313293, 'loss_ce': 0.10713505744934082, 'loss_lvr': 1.009867548942566, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 570, 'epoch': 0.93}
+{'loss_total': 0.6331618428230286, 'loss_ce': 0.42227840423583984, 'loss_lvr': 2.1088342666625977, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 2, 'tokens_per_device': 570, 'epoch': 0.93}
+{'loss_total': 0.2410488724708557, 'loss_ce': 0.1029953584074974, 'loss_lvr': 1.3805352449417114, 'loss_mode_switch': 0.0, 'epoch': 0.93}
+{'batch_size': 1, 'tokens_per_device': 5105, 'epoch': 0.93}
