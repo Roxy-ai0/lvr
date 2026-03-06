@@ -1324,24 +1324,45 @@ class QwenGRPOTrainer(Trainer):
 
     def _get_initial_cache_position_safe(self, model, input_ids, model_kwargs):
         # DeepSpeed / Accelerate wrappers may not expose generation helpers as proper bound methods.
-        # Always unwrap first so the helper is resolved on the underlying HF model.
         unwrapped_model = self.accelerator.unwrap_model(model) if hasattr(self, "accelerator") else model
 
         cache_position_getter = getattr(unwrapped_model, "_get_initial_cache_position", None)
-        if cache_position_getter is None:
-            return model_kwargs
+        if cache_position_getter is not None:
+            # Be tolerant to private API signature changes across transformers versions.
+            for call in (
+                lambda: cache_position_getter(input_ids, model_kwargs),
+                lambda: cache_position_getter(input_ids=input_ids, model_kwargs=model_kwargs),
+                lambda: cache_position_getter(model_kwargs=model_kwargs, input_ids=input_ids),
+            ):
+                try:
+                    return call()
+                except TypeError:
+                    continue
 
-        try:
-            return cache_position_getter(input_ids, model_kwargs)
-        except TypeError as exc:
-            if "missing 1 required positional argument: 'model_kwargs'" not in str(exc):
-                raise
+        # Fallback: create a cache_position compatible with generation utils.
+        # This avoids hard failures when private helper signatures drift.
+        if "cache_position" not in model_kwargs:
+            past_key_values = model_kwargs.get("past_key_values")
+            if past_key_values is not None:
+                past_length = 0
+                try:
+                    first_layer_past = past_key_values[0]
+                    if isinstance(first_layer_past, (tuple, list)) and len(first_layer_past) > 0:
+                        past_length = first_layer_past[0].shape[-2]
+                except Exception:
+                    past_length = 0
+            else:
+                past_length = 0
 
-            # Fallback: explicitly call the class function with `self` when wrappers leak unbound methods.
-            cache_position_func = getattr(type(unwrapped_model), "_get_initial_cache_position", None)
-            if cache_position_func is None:
-                raise
-            return cache_position_func(unwrapped_model, input_ids, model_kwargs)
+            seq_length = input_ids.shape[1]
+            model_kwargs["cache_position"] = torch.arange(
+                past_length,
+                past_length + seq_length,
+                dtype=torch.long,
+                device=input_ids.device,
+            )
+
+        return model_kwargs
 
     def score_with_lvr_replay(
         self,
