@@ -261,6 +261,6 @@ def qwen2_5_mixed_modality_forward_lvr_grpo(
         past_key_values=outputs.past_key_values,
         hidden_states=outputs.hidden_states,
         attentions=outputs.attentions,
-        rope_deltas=self.rope_deltas,
+        rope_deltas=getattr(self, "rope_deltas", None),
         last_position_hidden_state =last_position_hidden_state
     )
