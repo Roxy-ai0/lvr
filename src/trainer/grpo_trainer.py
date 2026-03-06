@@ -1007,7 +1007,7 @@ class QwenGRPOTrainer(Trainer):
 
             # Prepare inputs for full forward (this builds the autograd graph once)
             model_kwargs = {}  # adapt: if your trainer uses special _get_initial_cache_position do that
-            model_kwargs = getattr(model, "_get_initial_cache_position", lambda i, k: k)(prompt_completion_ids, model_kwargs)
+            model_kwargs = self._get_initial_cache_position_safe(model, prompt_completion_ids, model_kwargs)
             model_inputs = self.model.prepare_inputs_for_generation(prompt_completion_ids, **model_kwargs)  # fresh
             model_inputs.update(multimodal_inputs)
             model_inputs.update(
@@ -1322,6 +1322,21 @@ class QwenGRPOTrainer(Trainer):
 
         model_card.save(os.path.join(self.args.output_dir, "README.md"))
 
+    @staticmethod
+    def _get_initial_cache_position_safe(model, input_ids, model_kwargs):
+        cache_position_getter = getattr(model, "_get_initial_cache_position", None)
+        if cache_position_getter is None:
+            return model_kwargs
+
+        try:
+            return cache_position_getter(input_ids, model_kwargs)
+        except TypeError as exc:
+            if "missing 1 required positional argument: 'model_kwargs'" not in str(exc):
+                raise
+
+            # Some distributed wrappers may expose the method as an unbound function.
+            return cache_position_getter(model, input_ids, model_kwargs)
+
     def score_with_lvr_replay(
         self,
         model,
@@ -1369,7 +1384,7 @@ class QwenGRPOTrainer(Trainer):
 
             # To be safe, copy/paste your cache init call
             model_kwargs = {}  # adapt: if your trainer uses special _get_initial_cache_position do that
-            model_kwargs = getattr(model, "_get_initial_cache_position", lambda i, k: k)(cur_input_ids, model_kwargs)
+            model_kwargs = self._get_initial_cache_position_safe(model, cur_input_ids, model_kwargs)
 
             # loop: mirror your decode loop exactly for switch/quota updates
             cur_len = cur_input_ids.shape[1]
@@ -1510,7 +1525,7 @@ class QwenGRPOTrainer(Trainer):
 
         # initial cache / model kwargs (match generation)
         model_kwargs = {}
-        model_kwargs = self.model._get_initial_cache_position(prompt_ids, model_kwargs)
+        model_kwargs = self._get_initial_cache_position_safe(self.model, prompt_ids, model_kwargs)
 
         # cur_input_ids starts as prompt; we will append gold tokens teacher-forcing
         cur_input_ids = prompt_ids.clone()
@@ -1577,4 +1592,3 @@ class QwenGRPOTrainer(Trainer):
         had_lvr = (lvr_start_idx < total_len).to(device=device)
         # last_position_hidden_state is the final state after replay (or None if never produced)
         return lvr_states.to(device), lvr_mask.to(device), had_lvr, model_kwargs
-
