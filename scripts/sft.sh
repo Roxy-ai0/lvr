@@ -11,7 +11,7 @@ export PATH=/usr/local/cuda-12.4/bin:$PATH
 export LD_LIBRARY_PATH=/usr/local/cuda-12.4/lib64:$LD_LIBRARY_PATH
 export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
 export PYTHONPATH=$PWD:$PYTHONPATH
-export CUDA_VISIBLE_DEVICES=3,4,6,7
+export CUDA_VISIBLE_DEVICES=1,2,3,4
 
 DATA_PATH="/mnt/afs/smartbrain/fangwenhan/wzz/gzh/LatentReasoning_with_SAE/data/lvr_data/meta_data_lvr_sft_stage1.json"
 OUTPUT_DIR="stage1_checkpoints/"
@@ -21,13 +21,13 @@ OUTPUT_DIR="stage1_checkpoints/"
 # ==========================================
 DATA_PACKING=True
 LST=4096
-MAX_INSTANCE_PER_BATCH=2
+MAX_INSTANCE_PER_BATCH=4
 MAX_PACKED_TOKENS=$((MAX_INSTANCE_PER_BATCH * LST))
 RANDOM_SEED=42
 
 BATCH_PER_DEVICE=1
 NUM_DEVICES=4
-GRAD_ACCUM_STEPS=16
+GRAD_ACCUM_STEPS=8
 LR=1e-5
 LVR_HEAD=False
 LVR_LOSS_FCT=mse
@@ -115,7 +115,7 @@ while true; do
         --lazy_preprocess True \
         --save_strategy "steps" \
         --save_steps $RUN_STEPS \
-        --save_total_limit 10 \
+        --save_total_limit 3 \
         --dataloader_num_workers 4 \
         --enable_data_packing $DATA_PACKING \
         --max_packed_tokens $MAX_PACKED_TOKENS \
