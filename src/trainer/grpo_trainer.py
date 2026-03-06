@@ -329,6 +329,7 @@ class QwenGRPOTrainer(Trainer):
                 self.ref_model = Qwen2VLForConditionalGeneration.from_pretrained(
                     model_id,
                     **model_init_kwargs,
+                    ignore_mismatched_sizes=True,
                 )
         else:
             # If PEFT configuration is not provided, create a reference model based on the initial model.
