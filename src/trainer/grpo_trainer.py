@@ -1322,9 +1322,12 @@ class QwenGRPOTrainer(Trainer):
 
         model_card.save(os.path.join(self.args.output_dir, "README.md"))
 
-    @staticmethod
-    def _get_initial_cache_position_safe(model, input_ids, model_kwargs):
-        cache_position_getter = getattr(model, "_get_initial_cache_position", None)
+    def _get_initial_cache_position_safe(self, model, input_ids, model_kwargs):
+        # DeepSpeed / Accelerate wrappers may not expose generation helpers as proper bound methods.
+        # Always unwrap first so the helper is resolved on the underlying HF model.
+        unwrapped_model = self.accelerator.unwrap_model(model) if hasattr(self, "accelerator") else model
+
+        cache_position_getter = getattr(unwrapped_model, "_get_initial_cache_position", None)
         if cache_position_getter is None:
             return model_kwargs
 
@@ -1334,8 +1337,11 @@ class QwenGRPOTrainer(Trainer):
             if "missing 1 required positional argument: 'model_kwargs'" not in str(exc):
                 raise
 
-            # Some distributed wrappers may expose the method as an unbound function.
-            return cache_position_getter(model, input_ids, model_kwargs)
+            # Fallback: explicitly call the class function with `self` when wrappers leak unbound methods.
+            cache_position_func = getattr(type(unwrapped_model), "_get_initial_cache_position", None)
+            if cache_position_func is None:
+                raise
+            return cache_position_func(unwrapped_model, input_ids, model_kwargs)
 
     def score_with_lvr_replay(
         self,
